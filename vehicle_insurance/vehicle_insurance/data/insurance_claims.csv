@@ -1,0 +1,1001 @@
+months_as_customer,age,policy_state,policy_csl,policy_deductible,policy_annual_premium,education_level,occupation,incident_type,collision_type,incident_severity,authorities_contacted,auto_make,auto_year,total_claim_amount,vehicle_age,claim_ratio,fraud_reported
+103,69,OH,500/1000,2000,1595,High School,tech-support,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Ford,2005,113727,19,71.30219435736677,1
+131,39,OH,250/500,1000,2933,High School,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,None,Toyota,2011,157730,13,53.777702011592226,1
+190,79,IL,250/500,2000,2399,Masters,tech-support,Vehicle Theft,Front Collision,Total Loss,Ambulance,Toyota,2003,88313,21,36.81242184243435,0
+242,75,OH,250/500,500,1863,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Fire,Toyota,1998,199193,26,106.92055823939882,1
+390,71,IN,250/500,500,1202,College,sales,Multi-vehicle Collision,Rear Collision,Major Damage,None,Honda,2010,12534,14,10.427620632279535,1
+296,38,OH,250/500,2000,1576,College,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,Toyota,1995,49984,29,31.715736040609137,0
+472,28,IL,100/300,2000,918,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Fire,Toyota,2022,23662,2,25.775599128540303,1
+33,65,IL,500/1000,1000,2251,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Police,Ford,1999,140182,25,62.2754331408263,1
+218,72,IL,250/500,2000,892,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Ford,2001,123096,23,138.0,1
+485,40,IL,100/300,2000,1040,High School,exec-managerial,Vehicle Theft,Side Collision,Major Damage,None,Honda,2004,65044,20,62.542307692307695,1
+28,61,IN,250/500,2000,2163,College,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Police,Toyota,2019,198914,5,91.96208969024504,0
+259,56,IN,500/1000,500,817,High School,tech-support,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Honda,2018,69840,6,85.48347613219094,1
+442,69,IN,500/1000,1000,2136,High School,tech-support,Vehicle Theft,Front Collision,Major Damage,Fire,Honda,2017,91084,7,42.642322097378276,0
+130,70,IN,250/500,2000,1335,Masters,exec-managerial,Vehicle Theft,Front Collision,Total Loss,Fire,Toyota,2014,107081,10,80.21048689138577,1
+144,50,OH,500/1000,1000,2294,Masters,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,Ford,2014,140752,10,61.35658238884045,1
+338,57,OH,500/1000,500,2469,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,Honda,2010,108512,14,43.94977723774807,1
+304,79,OH,100/300,2000,2556,High School,exec-managerial,Vehicle Theft,Side Collision,Major Damage,None,Toyota,2018,161371,6,63.13419405320814,1
+422,57,IN,500/1000,1000,1996,Masters,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,Fire,Honda,2016,193207,8,96.79709418837675,1
+580,50,IN,100/300,2000,1718,High School,tech-support,Vehicle Theft,Side Collision,Major Damage,Ambulance,Honda,2008,117381,16,68.32421420256112,1
+438,25,IL,500/1000,1000,1297,High School,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,None,Ford,1998,103946,26,80.14340786430223,1
+172,45,IN,100/300,1000,2646,High School,tech-support,Single Vehicle Collision,Front Collision,Major Damage,Police,Ford,1997,198307,27,74.94595616024188,1
+161,20,IN,100/300,1000,2258,College,sales,Vehicle Theft,Rear Collision,Major Damage,None,Ford,2016,19070,8,8.445527015057573,0
+386,43,OH,100/300,500,745,Masters,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,Honda,2019,11647,5,15.633557046979865,0
+36,62,OH,250/500,1000,1471,Masters,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,None,Ford,2016,119834,8,81.46430999320191,1
+125,39,IN,250/500,1000,2852,College,sales,Vehicle Theft,Rear Collision,Total Loss,None,Toyota,1995,151580,29,53.14866760168303,0
+103,21,IN,100/300,1000,546,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,Fire,Ford,2011,74847,13,137.08241758241758,1
+346,54,IN,100/300,1000,1650,High School,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,Police,Ford,1996,178247,28,108.02848484848485,1
+488,62,OH,100/300,500,1203,Masters,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,Honda,2010,70042,14,58.22277639235245,1
+220,22,IL,100/300,1000,2273,College,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Toyota,1999,27646,25,12.162780466344039,0
+100,51,IL,250/500,1000,2989,High School,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Police,Ford,2014,150143,10,50.231850117096016,1
+545,50,OH,500/1000,2000,2136,Masters,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,None,Toyota,2007,39494,17,18.489700374531836,1
+35,40,OH,250/500,500,2125,College,sales,Vehicle Theft,Front Collision,Total Loss,None,Honda,2015,39513,9,18.59435294117647,0
+420,42,OH,100/300,500,1175,College,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,Honda,2011,197582,13,168.1548936170213,0
+37,29,OH,500/1000,500,2826,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Minor Damage,Police,Honda,2014,179031,10,63.35138004246284,1
+19,66,OH,100/300,2000,575,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Ford,2010,87900,14,152.8695652173913,1
+469,53,OH,500/1000,500,1562,High School,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,Ford,2020,10348,4,6.6248399487836105,0
+588,26,IN,250/500,500,2042,College,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,Honda,1996,89092,28,43.62977473065622,0
+496,62,OH,250/500,500,1010,Masters,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,Toyota,2006,27790,18,27.514851485148515,0
+39,79,IL,100/300,500,1253,College,sales,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,Toyota,1997,81219,27,64.8196328810854,1
+369,42,OH,250/500,500,633,College,tech-support,Single Vehicle Collision,Front Collision,Total Loss,Police,Honda,2015,193714,9,306.0252764612954,1
+532,74,IN,500/1000,500,2049,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,Fire,Ford,2010,173502,14,84.67642752562226,1
+358,29,OH,250/500,1000,1039,High School,tech-support,Vehicle Theft,Rear Collision,Total Loss,Police,Toyota,1995,56284,29,54.171318575553414,1
+558,52,OH,250/500,1000,755,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,None,Honda,2012,57570,12,76.25165562913908,1
+374,18,IN,500/1000,500,2302,High School,sales,Vehicle Theft,Front Collision,Major Damage,Ambulance,Ford,2011,47540,13,20.65160729800174,1
+511,18,OH,500/1000,1000,975,High School,tech-support,Vehicle Theft,Front Collision,Major Damage,Ambulance,Toyota,2017,24524,7,25.15282051282051,0
+83,34,OH,250/500,500,2401,High School,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,Police,Toyota,2002,109319,22,45.53061224489796,1
+551,43,IN,250/500,1000,2665,Masters,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,None,Toyota,2021,174880,3,65.62101313320825,1
+207,54,OH,250/500,1000,2622,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,Honda,2012,139013,12,53.01792524790236,1
+308,74,IN,100/300,2000,1519,College,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,Police,Toyota,1998,56479,26,37.18169848584595,0
+69,51,IN,100/300,1000,704,College,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Ambulance,Toyota,2017,138162,7,196.2528409090909,1
+360,21,OH,500/1000,2000,1166,High School,sales,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,Toyota,1999,112195,25,96.2221269296741,1
+513,22,OH,250/500,1000,2468,College,sales,Single Vehicle Collision,Side Collision,Minor Damage,Fire,Toyota,2009,137312,15,55.63695299837926,1
+107,65,OH,100/300,1000,1780,High School,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,Honda,2008,128449,16,72.1623595505618,1
+386,62,IN,250/500,2000,1835,Masters,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Fire,Ford,2009,68067,15,37.09373297002725,1
+15,42,IL,100/300,1000,1562,High School,tech-support,Vehicle Theft,Rear Collision,Major Damage,Fire,Toyota,2011,135668,13,86.85531370038413,1
+67,58,OH,250/500,2000,2775,Masters,sales,Multi-vehicle Collision,Side Collision,Minor Damage,None,Ford,2004,101776,20,36.67603603603604,0
+320,51,IL,500/1000,500,2489,High School,tech-support,Single Vehicle Collision,Front Collision,Major Damage,Police,Honda,2000,73303,24,29.450783447167538,1
+350,48,IL,100/300,2000,742,Masters,tech-support,Vehicle Theft,Rear Collision,Major Damage,None,Ford,1998,132189,26,178.1522911051213,1
+574,74,IN,500/1000,2000,1915,College,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,Fire,Honda,1998,92922,26,48.523237597911226,0
+140,64,OH,250/500,1000,819,College,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,None,Toyota,2005,48362,19,59.05006105006105,1
+10,22,IL,250/500,1000,2560,College,tech-support,Vehicle Theft,Front Collision,Minor Damage,Police,Toyota,2005,94070,19,36.74609375,1
+95,66,OH,250/500,1000,833,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,Toyota,2002,168231,22,201.9579831932773,1
+229,31,IN,500/1000,500,2552,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,None,Toyota,2007,44303,17,17.360109717868337,0
+422,50,IL,500/1000,2000,1492,High School,tech-support,Single Vehicle Collision,Side Collision,Total Loss,Fire,Honda,2015,168527,9,112.95375335120643,1
+198,23,IL,500/1000,2000,1971,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,Ford,1998,52356,26,26.56316590563166,1
+411,72,OH,250/500,1000,2357,College,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Fire,Honda,2007,155782,17,66.09333899024183,1
+15,46,OH,100/300,2000,2871,High School,sales,Vehicle Theft,Side Collision,Total Loss,Ambulance,Honda,2005,131330,19,45.74364332985023,1
+550,23,IL,500/1000,1000,2849,Masters,sales,Single Vehicle Collision,Rear Collision,Major Damage,Police,Toyota,2009,92751,15,32.555633555633555,0
+356,65,OH,100/300,2000,1103,Masters,sales,Single Vehicle Collision,Rear Collision,Total Loss,Police,Honda,2002,135869,22,123.18132366273798,1
+405,43,IN,250/500,2000,2354,College,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,Ambulance,Toyota,2015,58545,9,24.870433305012746,1
+575,69,OH,250/500,2000,885,Masters,sales,Vehicle Theft,Rear Collision,Total Loss,Police,Ford,2021,128738,3,145.46666666666667,1
+180,23,OH,100/300,500,784,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Toyota,2001,71480,23,91.1734693877551,1
+342,45,IL,100/300,500,826,High School,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,Ford,2023,160024,1,193.73365617433413,1
+424,36,IN,100/300,1000,1894,Masters,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Honda,2000,157594,24,83.20696937697994,1
+55,56,IL,250/500,1000,2401,College,tech-support,Vehicle Theft,Side Collision,Major Damage,Ambulance,Toyota,2002,111904,22,46.607246980424826,1
+443,78,IN,100/300,2000,1787,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,None,Toyota,2016,122300,8,68.43872411863458,1
+7,27,IL,100/300,2000,646,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,Police,Ford,1999,88955,25,137.70123839009287,1
+471,72,OH,100/300,1000,1779,College,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,None,Honda,2016,149843,8,84.22878021360314,0
+59,63,IL,100/300,1000,1020,College,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,Fire,Honda,2005,52693,19,51.659803921568624,1
+109,51,IL,100/300,2000,2675,High School,sales,Single Vehicle Collision,Rear Collision,Major Damage,Police,Toyota,2019,122829,5,45.917383177570095,1
+342,38,IL,100/300,2000,1145,Masters,sales,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,Honda,2007,143736,17,125.53362445414847,1
+558,19,IN,500/1000,500,1192,Masters,sales,Single Vehicle Collision,Front Collision,Total Loss,None,Ford,1998,156834,26,131.5721476510067,1
+98,72,IL,250/500,1000,2616,High School,sales,Vehicle Theft,Side Collision,Total Loss,None,Ford,2011,122789,13,46.93769113149847,1
+201,43,IN,100/300,500,2843,High School,tech-support,Single Vehicle Collision,Front Collision,Total Loss,None,Honda,2019,14350,5,5.047485051002462,1
+108,61,IL,250/500,1000,2822,High School,exec-managerial,Vehicle Theft,Front Collision,Minor Damage,Police,Honda,2019,95006,5,33.66619418851878,1
+592,41,IL,500/1000,500,2250,High School,sales,Multi-vehicle Collision,Front Collision,Major Damage,Police,Ford,2021,91600,3,40.71111111111111,1
+16,24,OH,500/1000,1000,749,Masters,sales,Vehicle Theft,Front Collision,Total Loss,Police,Ford,2010,42786,14,57.12416555407209,1
+372,56,IL,250/500,2000,1114,High School,sales,Vehicle Theft,Side Collision,Minor Damage,Fire,Ford,1999,135055,25,121.23429084380611,1
+39,32,OH,100/300,1000,1420,High School,sales,Single Vehicle Collision,Front Collision,Major Damage,None,Honda,1996,124618,28,87.75915492957746,1
+141,35,IL,500/1000,2000,1313,High School,sales,Single Vehicle Collision,Front Collision,Major Damage,Police,Toyota,2010,86431,14,65.82711348057883,1
+359,37,OH,100/300,1000,2550,High School,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,Toyota,2019,189847,5,74.44980392156863,0
+585,32,OH,100/300,2000,2541,High School,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,Ford,2008,127295,16,50.09641873278237,1
+153,24,IL,100/300,2000,1833,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,2019,117953,5,64.34969994544463,0
+517,22,IN,500/1000,2000,2044,Masters,sales,Single Vehicle Collision,Front Collision,Total Loss,Fire,Ford,2012,157497,12,77.05332681017613,1
+160,52,IN,100/300,500,2530,High School,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,Toyota,2018,155946,6,61.63873517786561,1
+195,42,IN,250/500,500,1986,High School,tech-support,Vehicle Theft,Side Collision,Major Damage,None,Ford,2000,153826,24,77.4551863041289,1
+454,54,OH,100/300,500,1092,College,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Ford,2018,12303,6,11.266483516483516,0
+289,23,IL,100/300,2000,2204,High School,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,Fire,Ford,2021,134541,3,61.044010889292196,0
+557,75,OH,500/1000,2000,925,College,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,Honda,1998,127209,26,137.52324324324326,1
+295,19,OH,250/500,2000,1636,High School,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Ambulance,Honda,2013,179589,11,109.77322738386309,1
+412,77,IL,250/500,500,1488,College,sales,Vehicle Theft,Front Collision,Major Damage,Police,Honda,2016,21953,8,14.753360215053764,0
+270,64,OH,500/1000,2000,1447,High School,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,Fire,Ford,2009,94106,15,65.03524533517623,1
+482,63,IN,100/300,500,2944,High School,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,Police,Ford,2014,183047,10,62.17629076086956,0
+22,28,IL,500/1000,500,1488,High School,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,Toyota,1999,129386,25,86.95295698924731,1
+527,51,OH,500/1000,500,1292,College,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,Police,Toyota,2015,140783,9,108.96517027863777,0
+199,20,OH,100/300,1000,1026,High School,sales,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,Toyota,2000,66455,24,64.770955165692,1
+501,70,IN,500/1000,500,571,High School,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,Ford,2000,158215,24,277.08406304728544,1
+102,58,IL,250/500,2000,1611,High School,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,None,Honda,2016,97347,8,60.42644320297951,1
+242,77,OH,250/500,500,2268,High School,sales,Single Vehicle Collision,Front Collision,Major Damage,Fire,Ford,1996,155470,28,68.54938271604938,1
+143,51,IN,500/1000,500,2395,Masters,tech-support,Vehicle Theft,Side Collision,Major Damage,Police,Honda,2003,131406,21,54.86680584551148,1
+264,25,IN,250/500,1000,610,Masters,exec-managerial,Vehicle Theft,Side Collision,Major Damage,Fire,Honda,2020,34662,4,56.82295081967213,1
+14,28,IN,250/500,2000,2060,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Toyota,2002,29380,22,14.262135922330097,0
+307,61,IN,250/500,1000,1161,High School,tech-support,Vehicle Theft,Side Collision,Major Damage,Ambulance,Ford,2023,17309,1,14.90869939707149,0
+332,66,IN,100/300,2000,2477,High School,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Toyota,1998,157921,26,63.754945498587,1
+578,32,IN,250/500,2000,1254,Masters,sales,Multi-vehicle Collision,Front Collision,Total Loss,Police,Honda,2002,85878,22,68.48325358851675,1
+100,65,IN,500/1000,1000,1439,College,sales,Multi-vehicle Collision,Side Collision,Minor Damage,Police,Honda,2007,136720,17,95.01042390548993,0
+14,73,IL,100/300,1000,1337,High School,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,Toyota,1999,145832,25,109.07404637247569,1
+301,40,IL,500/1000,2000,1129,College,sales,Single Vehicle Collision,Rear Collision,Major Damage,Police,Toyota,1999,80530,25,71.32860938883968,1
+284,74,IL,100/300,2000,2520,High School,tech-support,Single Vehicle Collision,Side Collision,Total Loss,Fire,Ford,2023,35707,1,14.169444444444444,1
+511,54,IN,100/300,500,2666,Masters,sales,Single Vehicle Collision,Front Collision,Total Loss,Police,Toyota,2011,65178,13,24.447861965491374,1
+242,41,IL,500/1000,1000,716,College,tech-support,Single Vehicle Collision,Side Collision,Total Loss,None,Ford,2005,69785,19,97.46508379888269,1
+151,79,OH,250/500,1000,1391,Masters,sales,Single Vehicle Collision,Front Collision,Total Loss,None,Toyota,2000,169452,24,121.82027318475916,1
+193,72,IL,250/500,2000,2493,College,sales,Multi-vehicle Collision,Front Collision,Major Damage,None,Ford,2002,111448,22,44.70437224227838,0
+1,36,IL,250/500,500,1827,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,Honda,2003,192648,21,105.44499178981937,1
+585,70,OH,500/1000,500,1847,College,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,1996,74297,28,40.22577152138603,1
+365,28,OH,250/500,1000,954,High School,tech-support,Vehicle Theft,Front Collision,Major Damage,Ambulance,Ford,2015,36643,9,38.409853249475894,0
+497,52,IN,250/500,2000,1461,College,tech-support,Vehicle Theft,Front Collision,Major Damage,None,Honda,2000,32348,24,22.140999315537304,1
+133,51,OH,500/1000,2000,542,Masters,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,Toyota,2015,165246,9,304.8819188191882,0
+117,77,IL,100/300,2000,550,Masters,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,Fire,Honda,2023,182187,1,331.2490909090909,1
+539,46,IL,500/1000,1000,1943,College,sales,Multi-vehicle Collision,Front Collision,Minor Damage,None,Honda,2019,87365,5,44.96397323726197,0
+586,56,OH,500/1000,2000,2859,High School,sales,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,1995,153747,29,53.776495278069255,1
+141,72,IN,250/500,500,1743,High School,sales,Single Vehicle Collision,Side Collision,Major Damage,None,Honda,2019,76388,5,43.82558806655192,0
+49,43,IL,100/300,1000,645,Masters,sales,Single Vehicle Collision,Side Collision,Major Damage,Police,Ford,2011,18633,13,28.888372093023257,0
+432,54,IL,500/1000,2000,2046,College,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,Police,Honda,2019,18727,5,9.152981427174975,0
+554,71,OH,500/1000,500,1498,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,None,Ford,2007,55253,17,36.8845126835781,1
+73,25,OH,500/1000,1000,2972,Masters,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,None,Ford,2015,126703,9,42.632234185733516,0
+381,75,IL,250/500,1000,1653,Masters,sales,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Ford,2014,98543,10,59.61464004839686,1
+453,30,OH,500/1000,2000,1516,Masters,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Toyota,2010,152175,14,100.37928759894459,0
+237,40,IL,250/500,500,2503,High School,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Honda,2002,92878,22,37.10667199360767,1
+460,55,IN,100/300,1000,980,Masters,sales,Single Vehicle Collision,Rear Collision,Minor Damage,Police,Honda,2021,179936,3,183.60816326530613,1
+180,79,IL,250/500,1000,810,College,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Toyota,2014,62929,10,77.69012345679012,1
+594,62,IL,250/500,1000,2193,College,sales,Vehicle Theft,Side Collision,Major Damage,Police,Ford,2015,25226,9,11.50296397628819,0
+466,31,IN,250/500,500,2485,High School,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Toyota,2008,32055,16,12.899396378269618,0
+483,58,IN,100/300,500,1463,High School,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Fire,Honda,2023,56099,1,38.345181134654815,1
+43,79,IN,500/1000,2000,2834,Masters,tech-support,Vehicle Theft,Rear Collision,Major Damage,Police,Honda,2005,181913,19,64.1894848270995,0
+457,40,IL,100/300,2000,648,High School,sales,Multi-vehicle Collision,Side Collision,Total Loss,None,Toyota,1998,47851,26,73.84413580246914,1
+359,77,OH,250/500,2000,2008,Masters,sales,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,Honda,2008,32174,16,16.022908366533866,0
+510,72,IN,250/500,2000,2952,College,sales,Vehicle Theft,Front Collision,Major Damage,Ambulance,Honda,2018,137614,6,46.61720867208672,1
+242,62,OH,100/300,1000,2520,High School,tech-support,Vehicle Theft,Front Collision,Total Loss,Ambulance,Toyota,2014,121575,10,48.24404761904762,0
+546,69,IN,500/1000,500,1959,High School,sales,Multi-vehicle Collision,Front Collision,Major Damage,Police,Toyota,2003,162983,21,83.19703930576824,1
+129,19,OH,100/300,1000,741,College,tech-support,Vehicle Theft,Side Collision,Major Damage,None,Ford,2016,52399,8,70.71390013495277,0
+173,36,OH,100/300,2000,2648,High School,tech-support,Vehicle Theft,Side Collision,Minor Damage,Police,Ford,2018,90570,6,34.203172205438065,0
+277,57,IN,500/1000,1000,2174,Masters,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Ambulance,Honda,1999,105797,25,48.664673413063475,1
+138,55,IL,100/300,2000,859,High School,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,Toyota,1998,98661,26,114.85564610011642,1
+217,75,IL,250/500,2000,869,College,tech-support,Vehicle Theft,Rear Collision,Major Damage,Police,Toyota,2010,10503,14,12.086306098964327,0
+522,32,OH,250/500,2000,2188,Masters,sales,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Honda,2014,178876,10,81.75319926873857,1
+113,73,OH,500/1000,1000,2067,College,exec-managerial,Vehicle Theft,Front Collision,Minor Damage,Ambulance,Honda,2015,160116,9,77.46298984034833,0
+302,57,IN,500/1000,2000,2783,Masters,sales,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,Toyota,2007,86457,17,31.06611570247934,0
+436,44,IN,500/1000,2000,1930,High School,sales,Vehicle Theft,Front Collision,Minor Damage,Police,Ford,2016,84986,8,44.03419689119171,1
+108,64,OH,100/300,2000,2683,College,sales,Single Vehicle Collision,Front Collision,Total Loss,Police,Ford,2004,123721,20,46.112933283637716,1
+302,56,IL,500/1000,1000,2659,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,Honda,2006,27832,18,10.467092892064686,0
+437,74,IL,500/1000,2000,1514,College,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Police,Honda,2018,198621,6,131.1895640686922,1
+469,71,IL,100/300,1000,2585,College,tech-support,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Toyota,2008,70122,16,27.126499032882013,0
+55,69,IN,250/500,1000,1093,Masters,exec-managerial,Vehicle Theft,Front Collision,Total Loss,Fire,Ford,2016,181887,8,166.41079597438244,0
+117,48,IL,100/300,1000,682,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,None,Toyota,2021,157123,3,230.38563049853371,0
+118,62,OH,100/300,1000,1783,Masters,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,Fire,Ford,2001,146544,23,82.18956814357824,1
+500,78,IN,250/500,2000,1472,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Honda,2011,84820,13,57.62228260869565,1
+547,63,IN,500/1000,500,1872,High School,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,None,Honda,2020,151787,4,81.08279914529915,0
+313,53,IN,100/300,1000,1185,High School,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,None,Honda,2016,104302,8,88.01856540084388,0
+400,71,IL,250/500,500,704,College,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Fire,Ford,2019,147964,5,210.17613636363637,1
+519,23,IL,500/1000,1000,1171,Masters,exec-managerial,Vehicle Theft,Front Collision,Major Damage,Fire,Honda,2019,152716,5,130.41502988898378,1
+131,40,IN,100/300,500,2438,Masters,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,Police,Toyota,2012,161372,12,66.19031993437244,1
+327,39,IL,100/300,500,2187,High School,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,Police,Ford,2016,46232,8,21.139460448102422,1
+198,51,OH,250/500,500,2037,College,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,None,Ford,2023,70286,1,34.504663721158565,1
+294,77,IL,250/500,2000,2227,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,None,Honda,1998,162645,26,73.033228558599,1
+213,32,IN,250/500,2000,2605,College,tech-support,Vehicle Theft,Rear Collision,Minor Damage,None,Honda,1997,175023,27,67.18733205374281,1
+227,23,IL,500/1000,500,2926,College,exec-managerial,Vehicle Theft,Front Collision,Total Loss,Ambulance,Honda,2002,123775,22,42.30177717019822,1
+485,38,IL,100/300,2000,2467,College,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,Ford,2007,66794,17,27.074989866234294,1
+486,50,OH,500/1000,500,2415,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,Ford,2003,63987,21,26.495652173913044,1
+129,62,IL,100/300,500,1169,High School,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,Ford,2021,140076,3,119.82549187339606,1
+382,79,OH,500/1000,500,764,College,sales,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Honda,2009,158547,15,207.52225130890054,1
+131,29,IN,250/500,500,2703,College,sales,Single Vehicle Collision,Front Collision,Total Loss,None,Honda,2003,145302,21,53.755826859045506,1
+279,65,IN,100/300,500,2174,College,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,None,Toyota,2010,88969,14,40.92410303587857,0
+156,64,IL,250/500,500,2183,High School,exec-managerial,Vehicle Theft,Side Collision,Total Loss,None,Honda,2019,64278,5,29.444800732936326,1
+227,74,OH,100/300,1000,2519,High School,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,Honda,2013,127688,11,50.68995633187773,1
+443,44,IN,250/500,1000,641,High School,sales,Vehicle Theft,Side Collision,Major Damage,Ambulance,Honda,2021,9787,3,15.268330733229329,0
+270,43,IN,500/1000,1000,2467,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Ford,2003,191747,21,77.72476692338873,0
+63,26,IL,500/1000,500,2031,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,Toyota,2003,60711,21,29.892171344165437,1
+203,70,IL,100/300,2000,2881,College,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Police,Honda,2016,127888,8,44.390142311697325,0
+16,46,IN,100/300,1000,2815,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Toyota,1999,59643,25,21.187566607460035,1
+201,78,OH,500/1000,500,981,High School,tech-support,Vehicle Theft,Side Collision,Major Damage,None,Honda,2009,50678,15,51.65953109072375,0
+406,57,OH,500/1000,1000,2311,High School,tech-support,Vehicle Theft,Side Collision,Total Loss,None,Honda,2006,9770,18,4.227607096495023,0
+162,44,IL,100/300,500,1610,College,sales,Multi-vehicle Collision,Front Collision,Major Damage,Police,Toyota,2006,29933,18,18.59192546583851,1
+380,59,OH,100/300,500,2144,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,None,Toyota,2007,87716,17,40.91231343283582,1
+190,25,IL,100/300,1000,2330,High School,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,2003,183024,21,78.5510729613734,1
+529,41,OH,500/1000,2000,682,High School,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,Ford,2007,191590,17,280.92375366568916,1
+19,29,OH,100/300,500,2992,High School,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,Police,Toyota,2021,124053,3,41.461564171122994,1
+324,47,OH,500/1000,1000,2274,High School,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Police,Ford,1996,168708,28,74.18997361477572,1
+266,31,IN,500/1000,1000,2063,Masters,sales,Vehicle Theft,Front Collision,Major Damage,Police,Honda,1997,138103,27,66.9428017450315,1
+268,52,IL,100/300,2000,2498,College,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,Ford,2019,51583,5,20.649719775820657,0
+438,60,IN,500/1000,500,874,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,None,Honda,1997,80003,27,91.53661327231121,1
+23,57,IL,250/500,2000,1641,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,None,Toyota,2018,22312,6,13.596587446678855,1
+202,77,IN,500/1000,2000,2002,Masters,sales,Vehicle Theft,Front Collision,Minor Damage,Fire,Toyota,2002,133001,22,66.43406593406593,1
+486,18,IL,100/300,500,1957,High School,sales,Vehicle Theft,Side Collision,Total Loss,Police,Honda,2021,8597,3,4.392948390393459,0
+234,68,IN,250/500,2000,2672,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Toyota,1999,9036,25,3.3817365269461077,0
+201,66,OH,100/300,2000,2978,College,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,Police,Toyota,2011,134004,13,44.99798522498321,0
+379,40,IL,500/1000,1000,1877,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,Ford,2006,1138,18,0.6062866275972296,0
+280,78,IL,100/300,2000,2686,Masters,tech-support,Single Vehicle Collision,Side Collision,Major Damage,None,Honda,2019,176767,5,65.81049888309754,1
+520,45,OH,100/300,500,2711,College,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,Fire,Ford,2016,2708,8,0.99889339727038,0
+395,56,OH,100/300,500,1057,College,sales,Single Vehicle Collision,Side Collision,Total Loss,Fire,Honda,2017,107233,7,101.45033112582782,1
+216,40,IL,500/1000,2000,1203,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,Police,Honda,2021,153155,3,127.31088944305903,1
+365,52,IL,100/300,500,2884,High School,tech-support,Vehicle Theft,Side Collision,Major Damage,Ambulance,Ford,1999,157590,25,54.642857142857146,1
+114,49,IN,100/300,1000,1182,Masters,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Honda,2003,53887,21,45.58967851099831,1
+303,52,IL,250/500,1000,612,Masters,sales,Vehicle Theft,Side Collision,Minor Damage,None,Toyota,1999,121356,25,198.2941176470588,0
+188,26,IL,100/300,2000,2741,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,Fire,Honda,2000,198706,24,72.4939802991609,1
+188,30,OH,250/500,500,2630,Masters,sales,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Honda,2022,112041,2,42.601140684410645,1
+508,51,IL,500/1000,2000,1473,College,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,Ambulance,Toyota,2001,68904,23,46.77800407331976,1
+533,36,OH,500/1000,500,1804,College,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,None,Honda,2004,90571,20,50.20565410199556,1
+160,67,IN,250/500,1000,1511,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,None,Toyota,2021,72126,3,47.73395102581072,1
+290,35,IN,500/1000,2000,2239,High School,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,Fire,Toyota,2020,51961,4,23.207235372934345,0
+343,41,IN,100/300,1000,2872,High School,tech-support,Vehicle Theft,Front Collision,Minor Damage,Ambulance,Ford,2003,137865,21,48.003133704735376,1
+141,36,OH,250/500,2000,2948,College,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,None,Ford,2019,24478,5,8.30325644504749,1
+235,30,OH,100/300,2000,2308,Masters,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,None,Ford,2013,195187,11,84.56975736568458,1
+502,65,IL,100/300,2000,2019,College,sales,Vehicle Theft,Front Collision,Total Loss,Police,Toyota,2012,28364,12,14.048538880633977,0
+528,26,OH,250/500,2000,1451,College,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,Police,Honda,2003,19135,21,13.187456926257754,1
+3,45,IN,100/300,1000,1961,High School,tech-support,Vehicle Theft,Side Collision,Minor Damage,Police,Toyota,2016,142365,8,72.59816420193779,1
+53,27,IN,100/300,500,2315,College,sales,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Toyota,1997,183885,27,79.43196544276458,1
+536,46,IL,100/300,1000,2777,High School,exec-managerial,Vehicle Theft,Front Collision,Major Damage,None,Ford,2016,176796,8,63.66438602808786,1
+421,23,IL,100/300,500,532,Masters,sales,Vehicle Theft,Front Collision,Major Damage,None,Ford,2015,153035,9,287.65977443609023,1
+307,26,IL,100/300,2000,1979,High School,sales,Vehicle Theft,Side Collision,Minor Damage,Police,Toyota,1996,88265,28,44.60080848913593,1
+471,61,IN,250/500,500,1130,High School,sales,Vehicle Theft,Side Collision,Major Damage,Police,Toyota,2021,178241,3,157.7353982300885,1
+26,42,IN,500/1000,500,2814,High School,tech-support,Vehicle Theft,Side Collision,Total Loss,Ambulance,Toyota,2011,33430,13,11.879886282871357,0
+569,64,IL,100/300,1000,2276,College,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Police,Honda,2000,176841,24,77.6981546572935,1
+277,63,OH,250/500,1000,2993,College,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Honda,1997,169925,27,56.77413965920481,1
+493,60,OH,100/300,2000,2880,College,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,None,Ford,2022,32279,2,11.207986111111111,0
+446,74,IL,100/300,500,2821,Masters,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,Fire,Honda,2000,190699,24,67.59978730946473,1
+125,51,OH,500/1000,2000,744,College,sales,Vehicle Theft,Front Collision,Major Damage,None,Honda,1998,112086,26,150.65322580645162,1
+593,76,IN,250/500,500,585,High School,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,Ford,2015,129727,9,221.75555555555556,1
+567,25,IL,250/500,500,848,Masters,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,Ford,2021,56841,3,67.02948113207547,1
+327,66,IL,100/300,1000,773,High School,tech-support,Single Vehicle Collision,Side Collision,Major Damage,None,Toyota,2012,64232,12,83.09443725743856,0
+266,76,IL,100/300,500,2424,College,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,None,Toyota,2003,85700,21,35.35478547854785,1
+99,29,IN,500/1000,2000,1632,Masters,exec-managerial,Vehicle Theft,Side Collision,Major Damage,None,Toyota,2015,134251,9,82.26164215686275,0
+109,46,OH,500/1000,2000,2081,College,tech-support,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Toyota,1995,92502,29,44.45074483421432,0
+189,53,IN,100/300,1000,789,High School,tech-support,Vehicle Theft,Front Collision,Total Loss,Police,Toyota,2015,189221,9,239.82382762991128,1
+566,23,OH,100/300,1000,2938,Masters,sales,Single Vehicle Collision,Front Collision,Total Loss,None,Ford,2016,154390,8,52.54935330156569,1
+511,53,IL,100/300,500,2432,Masters,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Toyota,2010,31106,14,12.790296052631579,0
+496,76,IL,250/500,2000,1545,High School,sales,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Ford,2004,135345,20,87.60194174757281,1
+254,26,OH,500/1000,1000,2083,Masters,tech-support,Vehicle Theft,Front Collision,Minor Damage,Fire,Toyota,1995,174784,29,83.90974555928949,0
+88,19,IL,500/1000,2000,1506,Masters,sales,Vehicle Theft,Front Collision,Major Damage,Police,Toyota,1996,14050,28,9.329349269588313,0
+582,23,OH,500/1000,500,1060,Masters,tech-support,Vehicle Theft,Front Collision,Minor Damage,Ambulance,Honda,2009,86091,15,81.2179245283019,1
+369,36,IL,500/1000,1000,2324,College,sales,Single Vehicle Collision,Side Collision,Total Loss,Police,Ford,2000,188256,24,81.0051635111876,1
+193,22,IL,250/500,500,2355,College,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Fire,Toyota,2014,122950,10,52.20806794055202,1
+376,39,IL,100/300,500,1339,Masters,sales,Vehicle Theft,Side Collision,Major Damage,None,Ford,2013,12442,11,9.292008961911874,0
+124,50,OH,250/500,500,2878,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Minor Damage,Police,Toyota,2022,155692,2,54.09728978457262,0
+318,67,OH,500/1000,1000,2744,Masters,sales,Multi-vehicle Collision,Side Collision,Total Loss,None,Toyota,2007,47163,17,17.18768221574344,1
+526,40,IL,250/500,500,1259,High School,sales,Vehicle Theft,Rear Collision,Minor Damage,Police,Honda,2023,187384,1,148.83558379666403,1
+412,79,OH,100/300,1000,1991,High School,tech-support,Vehicle Theft,Front Collision,Total Loss,Ambulance,Ford,2004,23625,20,11.865896534404822,0
+586,55,IN,250/500,2000,718,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,Ford,2014,27990,10,38.98328690807799,0
+134,32,IL,250/500,500,980,College,tech-support,Vehicle Theft,Side Collision,Major Damage,Police,Toyota,2013,43137,11,44.01734693877551,0
+315,39,IL,100/300,2000,1771,College,sales,Multi-vehicle Collision,Front Collision,Minor Damage,None,Toyota,2011,174123,13,98.31902879728966,1
+83,18,IN,100/300,500,2593,College,sales,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Ford,2016,79513,8,30.664481295796374,0
+127,42,IL,500/1000,500,2926,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Toyota,2003,76945,21,26.296992481203006,1
+39,66,OH,500/1000,2000,2003,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,Police,Ford,2010,153353,14,76.5616575137294,1
+314,50,IL,250/500,1000,1827,Masters,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,Ford,2007,114143,17,62.47564313081554,1
+494,59,OH,100/300,500,889,Masters,tech-support,Vehicle Theft,Front Collision,Minor Damage,Fire,Toyota,2003,150329,21,169.0989876265467,1
+445,75,IL,500/1000,1000,2541,College,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Fire,Ford,2016,11751,8,4.624557260920898,1
+214,24,OH,500/1000,1000,2635,Masters,tech-support,Vehicle Theft,Side Collision,Major Damage,Fire,Honda,2019,188776,5,71.64174573055028,1
+21,67,IL,500/1000,500,2850,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,None,Honda,2017,58620,7,20.568421052631578,1
+153,62,IL,250/500,2000,2071,College,sales,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Toyota,2011,125116,13,60.4133268952197,1
+109,52,IL,250/500,500,2808,College,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Fire,Toyota,2016,191920,8,68.34757834757835,0
+558,69,IL,500/1000,500,1924,Masters,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,None,Honda,2016,65925,8,34.264553014553016,1
+499,31,IN,250/500,2000,614,College,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,Ford,2009,179933,15,293.0504885993485,1
+382,45,IL,100/300,500,518,Masters,sales,Vehicle Theft,Rear Collision,Minor Damage,Police,Honda,1996,137690,28,265.81081081081084,1
+93,65,IL,100/300,500,744,High School,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Ambulance,Toyota,1999,131841,25,177.20564516129033,1
+103,70,OH,100/300,1000,1028,Masters,tech-support,Vehicle Theft,Front Collision,Total Loss,Ambulance,Toyota,2015,162770,9,158.33657587548637,1
+25,71,OH,100/300,500,1004,College,tech-support,Vehicle Theft,Side Collision,Major Damage,Police,Ford,2008,12676,16,12.625498007968128,0
+429,32,IL,500/1000,500,1041,High School,sales,Vehicle Theft,Rear Collision,Major Damage,Fire,Ford,2019,170831,5,164.10278578290107,1
+49,62,IN,250/500,500,2882,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,Ford,2016,154407,8,53.5763358778626,1
+507,77,IL,250/500,2000,2643,Masters,sales,Vehicle Theft,Rear Collision,Major Damage,None,Toyota,2003,15683,21,5.933787362845251,1
+504,32,OH,100/300,1000,2861,High School,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,None,Toyota,1997,64972,27,22.70954211814051,1
+571,24,OH,500/1000,1000,2948,Masters,exec-managerial,Vehicle Theft,Front Collision,Major Damage,None,Honda,1999,88796,25,30.120759837177747,1
+445,30,IL,250/500,2000,2348,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,None,Honda,2006,111986,18,47.694207836456556,1
+514,67,IL,250/500,2000,1157,College,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Ford,2000,13226,24,11.431287813310286,0
+156,38,IN,250/500,500,1422,Masters,sales,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Ford,1998,156103,26,109.77707454289732,1
+340,75,OH,100/300,500,1593,High School,tech-support,Vehicle Theft,Side Collision,Minor Damage,None,Honda,2012,86679,12,54.41242937853107,0
+504,57,IL,100/300,2000,603,High School,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Police,Honda,2023,170509,1,282.76782752902153,0
+299,78,IL,500/1000,500,1974,High School,exec-managerial,Vehicle Theft,Side Collision,Total Loss,None,Toyota,2007,64344,17,32.59574468085106,1
+499,71,IL,250/500,2000,1007,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,Honda,2011,149447,13,148.40814299900694,1
+235,75,IL,500/1000,500,2685,Masters,tech-support,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Ford,1996,34340,28,12.789571694599628,0
+211,40,IL,250/500,1000,1838,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,Police,Honda,2014,80768,10,43.94341675734494,0
+189,35,IL,500/1000,1000,2245,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Police,Ford,2019,79824,5,35.55634743875278,0
+64,24,OH,500/1000,1000,2249,College,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,Fire,Honda,2014,136601,10,60.738550466874166,1
+43,32,IN,250/500,1000,589,College,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,Police,Honda,1996,185099,28,314.2597623089983,1
+150,37,OH,250/500,1000,1139,Masters,sales,Multi-vehicle Collision,Side Collision,Total Loss,None,Toyota,2021,198870,3,174.60052677787533,1
+215,41,IL,100/300,2000,678,High School,sales,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,Toyota,2002,166070,22,244.9410029498525,1
+276,77,IL,100/300,2000,1444,High School,sales,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Ford,1996,84014,28,58.1814404432133,1
+276,67,IN,250/500,2000,2540,Masters,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,None,Honda,2001,147480,23,58.06299212598425,1
+36,54,IN,250/500,2000,1861,College,exec-managerial,Vehicle Theft,Side Collision,Major Damage,Fire,Ford,2017,46066,7,24.75335840945728,0
+453,55,IN,250/500,2000,2463,College,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Ford,2004,162206,20,65.85708485586683,1
+89,65,IN,500/1000,500,1922,College,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Ambulance,Toyota,2011,102407,13,53.28147762747138,1
+82,30,OH,500/1000,1000,1734,Masters,tech-support,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Ford,2019,110373,5,63.6522491349481,0
+229,23,IL,100/300,500,2735,College,sales,Vehicle Theft,Rear Collision,Total Loss,None,Toyota,2007,199303,17,72.87129798903108,1
+120,45,OH,250/500,2000,2166,High School,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Ford,2002,64293,22,29.682825484764543,1
+387,76,OH,500/1000,2000,848,Masters,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Police,Ford,2015,178747,9,210.7865566037736,1
+525,62,IL,250/500,1000,775,High School,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,Toyota,2011,17279,13,22.295483870967743,0
+109,40,IN,500/1000,1000,1634,Masters,tech-support,Vehicle Theft,Front Collision,Minor Damage,None,Toyota,2023,53495,1,32.73867809057528,0
+511,34,IN,500/1000,500,997,High School,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Toyota,2015,182871,9,183.42126379137412,1
+143,26,IN,500/1000,500,2931,College,tech-support,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,Toyota,2006,36554,18,12.47151142954623,0
+140,50,OH,250/500,500,1452,Masters,sales,Single Vehicle Collision,Side Collision,Major Damage,Fire,Ford,2005,192078,19,132.28512396694214,1
+416,75,OH,100/300,500,923,Masters,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Toyota,2013,71453,11,77.41386782231852,1
+371,28,OH,100/300,2000,1973,Masters,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,Fire,Ford,2018,193485,6,98.06639635073492,0
+293,68,IN,250/500,500,2605,High School,sales,Single Vehicle Collision,Front Collision,Total Loss,None,Honda,2013,26954,11,10.347024952015355,1
+210,65,OH,500/1000,1000,1422,High School,exec-managerial,Vehicle Theft,Side Collision,Major Damage,Police,Toyota,1996,6698,28,4.710267229254571,0
+73,43,IN,500/1000,2000,651,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Ford,2006,144464,18,221.91090629800308,1
+162,40,IL,250/500,2000,586,Masters,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Ford,2020,160892,4,274.5597269624573,0
+469,79,OH,100/300,1000,2288,Masters,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,Toyota,2015,26464,9,11.566433566433567,0
+112,61,IL,500/1000,2000,1029,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,None,Honda,2004,54592,20,53.053449951409135,1
+203,78,OH,250/500,500,2216,Masters,tech-support,Vehicle Theft,Front Collision,Major Damage,Police,Toyota,2003,31266,21,14.109205776173285,0
+30,28,IL,250/500,500,1390,Masters,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,Fire,Toyota,2001,32417,23,23.32158273381295,0
+247,48,OH,100/300,2000,777,High School,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,Honda,2016,166289,8,214.014157014157,1
+208,25,IN,500/1000,500,1028,College,sales,Single Vehicle Collision,Front Collision,Major Damage,Police,Honda,2007,118509,17,115.28112840466926,1
+72,78,IL,250/500,500,768,High School,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Police,Honda,2020,123672,4,161.03125,1
+5,43,IN,250/500,2000,1971,College,sales,Single Vehicle Collision,Front Collision,Major Damage,Fire,Toyota,2001,15719,23,7.975139523084729,0
+575,60,IL,500/1000,500,2966,Masters,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,Police,Ford,2005,182297,19,61.46223870532704,1
+141,23,IN,250/500,500,962,Masters,sales,Vehicle Theft,Rear Collision,Minor Damage,Fire,Toyota,1996,145670,28,151.42411642411642,1
+171,48,OH,500/1000,500,1461,Masters,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,Police,Ford,2004,28877,20,19.765229295003422,0
+423,77,IN,500/1000,1000,2720,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Honda,2006,53227,18,19.56875,0
+146,32,IN,100/300,500,1725,College,exec-managerial,Vehicle Theft,Side Collision,Major Damage,Ambulance,Ford,2011,172103,13,99.76985507246377,1
+416,39,IN,500/1000,1000,1716,College,exec-managerial,Vehicle Theft,Front Collision,Total Loss,Fire,Ford,2003,57635,21,33.586829836829835,1
+530,66,IL,100/300,500,2314,College,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,Ambulance,Ford,2019,36739,5,15.876836646499568,0
+495,42,IN,250/500,1000,1516,College,sales,Multi-vehicle Collision,Side Collision,Total Loss,Police,Toyota,2008,78154,16,51.55277044854881,1
+99,28,IL,100/300,500,1184,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,None,Toyota,2004,157625,20,133.12922297297297,1
+241,68,IN,500/1000,500,686,College,sales,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,Honda,2006,164515,18,239.81778425655978,0
+474,76,IL,500/1000,2000,2619,Masters,exec-managerial,Vehicle Theft,Side Collision,Major Damage,Ambulance,Toyota,2005,197624,19,75.4578083237877,1
+520,22,IN,250/500,500,575,High School,sales,Vehicle Theft,Rear Collision,Major Damage,Ambulance,Toyota,2014,184419,10,320.72869565217394,1
+228,64,IN,500/1000,500,1117,High School,tech-support,Vehicle Theft,Side Collision,Minor Damage,None,Toyota,2000,5926,24,5.305282005371531,0
+146,22,IN,250/500,500,2310,Masters,sales,Single Vehicle Collision,Side Collision,Major Damage,Fire,Toyota,1998,167421,26,72.47662337662338,1
+550,23,IL,500/1000,500,647,High School,sales,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Ford,1999,27553,25,42.585780525502315,0
+589,59,OH,250/500,2000,2682,Masters,sales,Multi-vehicle Collision,Side Collision,Total Loss,Police,Toyota,2023,101766,1,37.94407158836689,1
+187,69,IN,250/500,1000,2863,High School,sales,Vehicle Theft,Front Collision,Total Loss,Ambulance,Toyota,2005,165726,19,57.885434858539995,1
+306,29,IL,100/300,500,1871,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Fire,Honda,2018,180971,6,96.72421165152325,1
+296,67,IL,500/1000,500,511,Masters,sales,Vehicle Theft,Front Collision,Major Damage,Fire,Toyota,2010,146281,14,286.2641878669276,1
+96,78,IN,250/500,500,1344,High School,sales,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,Toyota,2016,87483,8,65.09151785714286,1
+336,51,IN,100/300,1000,2559,High School,sales,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,Ford,2022,29992,2,11.720203204376709,0
+386,48,OH,250/500,1000,1026,High School,tech-support,Vehicle Theft,Front Collision,Major Damage,Fire,Honda,1999,90745,25,88.44541910331384,1
+314,29,IN,250/500,500,1943,College,sales,Vehicle Theft,Front Collision,Minor Damage,None,Toyota,2007,29835,17,15.355120946989192,0
+480,62,IL,500/1000,500,2278,College,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,None,Toyota,2007,188990,17,82.96312554872695,1
+527,61,OH,100/300,1000,1055,College,tech-support,Single Vehicle Collision,Side Collision,Total Loss,None,Ford,2008,111634,16,105.81421800947868,1
+476,36,IN,250/500,1000,1299,High School,exec-managerial,Vehicle Theft,Front Collision,Minor Damage,Police,Honda,2019,41542,5,31.979984603541187,0
+508,44,OH,500/1000,500,2378,Masters,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,Police,Honda,2020,69111,4,29.062657695542473,1
+193,75,OH,500/1000,500,2372,College,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Police,Ford,2022,129674,2,54.66863406408095,1
+212,62,OH,500/1000,2000,670,High School,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,Police,Toyota,2016,76986,8,114.9044776119403,1
+26,40,IL,100/300,500,1543,Masters,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Ambulance,Honda,2005,77441,19,50.18859364873623,0
+427,36,IN,250/500,1000,1892,College,tech-support,Vehicle Theft,Side Collision,Major Damage,Ambulance,Ford,2005,89422,19,47.26321353065539,1
+563,70,OH,250/500,500,1099,High School,tech-support,Single Vehicle Collision,Front Collision,Major Damage,Fire,Toyota,2014,16989,10,15.45859872611465,0
+7,63,IN,500/1000,1000,2524,Masters,tech-support,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Toyota,2020,149376,4,59.182250396196515,1
+164,31,IN,500/1000,1000,847,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,Ford,2008,146399,16,172.84415584415584,1
+507,64,OH,250/500,1000,921,Masters,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,Police,Honda,2011,18576,13,20.169381107491855,0
+496,78,IN,250/500,2000,1319,High School,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,None,Ford,2016,140993,8,106.89385898407885,1
+178,26,OH,500/1000,500,1419,Masters,sales,Vehicle Theft,Side Collision,Total Loss,None,Honda,2019,49785,5,35.084566596194506,0
+355,64,IL,500/1000,2000,2807,High School,tech-support,Vehicle Theft,Rear Collision,Major Damage,None,Ford,2003,37483,21,13.353402208763805,1
+66,61,IN,250/500,1000,1192,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Fire,Honda,2017,6209,7,5.208892617449664,0
+598,36,OH,250/500,2000,1880,College,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Police,Honda,2021,165744,3,88.16170212765958,1
+541,50,IL,250/500,500,770,College,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Ford,2005,180921,19,234.96233766233766,1
+364,76,IL,250/500,2000,1079,Masters,sales,Single Vehicle Collision,Rear Collision,Minor Damage,None,Honda,1996,20627,28,19.11677479147359,1
+503,74,OH,500/1000,2000,643,Masters,sales,Vehicle Theft,Side Collision,Total Loss,Police,Toyota,2020,103828,4,161.47433903576982,0
+197,59,OH,500/1000,1000,1389,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,Ford,2004,101699,20,73.2174226061915,1
+396,64,IN,100/300,500,1403,Masters,sales,Vehicle Theft,Side Collision,Minor Damage,Ambulance,Toyota,2002,58174,22,41.464005702067,0
+9,77,IN,100/300,500,1516,Masters,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,Police,Honda,2018,15308,6,10.097625329815303,0
+208,63,OH,100/300,1000,2559,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Toyota,2017,15506,7,6.0593982024228215,0
+25,35,IN,100/300,2000,2369,College,exec-managerial,Vehicle Theft,Front Collision,Total Loss,None,Ford,2009,187504,15,79.14900802026172,1
+481,21,IN,100/300,1000,2531,Masters,sales,Multi-vehicle Collision,Side Collision,Major Damage,Police,Toyota,1999,180736,25,71.40892927696562,1
+66,27,IL,100/300,1000,674,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Police,Ford,2005,22650,19,33.6053412462908,1
+14,71,OH,100/300,500,1062,Masters,exec-managerial,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,Honda,2006,152990,18,144.0583804143126,1
+289,36,IL,100/300,1000,1700,High School,sales,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Honda,2007,82533,17,48.54882352941176,0
+528,45,IL,100/300,1000,2783,Masters,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,None,Toyota,2019,119248,5,42.848724398131516,1
+64,40,IL,500/1000,2000,1875,College,tech-support,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Toyota,2015,97870,9,52.19733333333333,0
+466,41,IL,500/1000,2000,1181,Masters,sales,Vehicle Theft,Rear Collision,Total Loss,Police,Toyota,2007,172806,17,146.32176121930567,1
+589,66,IL,100/300,1000,2127,High School,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Toyota,2000,183520,24,86.28114715561824,1
+75,31,IN,500/1000,2000,1878,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,None,Toyota,1997,126629,27,67.42758253461129,1
+508,79,IL,250/500,500,2435,College,tech-support,Vehicle Theft,Side Collision,Total Loss,Police,Honda,2013,28464,11,11.68952772073922,0
+439,35,IN,100/300,500,544,College,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,None,Ford,2001,67537,23,124.14889705882354,1
+274,77,OH,100/300,2000,2562,Masters,tech-support,Single Vehicle Collision,Front Collision,Major Damage,None,Toyota,2010,74870,14,29.22326307572209,0
+247,22,IL,250/500,2000,1437,High School,sales,Single Vehicle Collision,Side Collision,Minor Damage,None,Ford,2010,177318,14,123.3945720250522,1
+117,28,IL,100/300,500,1687,High School,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Honda,2018,149246,6,88.46828689982217,0
+151,46,IN,250/500,2000,2744,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,None,Ford,2011,103892,13,37.86151603498542,1
+106,72,IN,500/1000,1000,1093,Masters,sales,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,Ford,2009,20773,15,19.00548947849954,0
+324,32,OH,500/1000,2000,2730,College,tech-support,Vehicle Theft,Rear Collision,Total Loss,Fire,Ford,2011,123990,13,45.417582417582416,0
+592,69,IL,250/500,500,2720,High School,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,None,Toyota,2000,66431,24,24.42316176470588,0
+126,42,IL,100/300,1000,2878,College,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,None,Ford,2005,125069,19,43.45691452397498,1
+21,71,IL,250/500,2000,1851,Masters,sales,Vehicle Theft,Side Collision,Minor Damage,Police,Toyota,2023,148646,1,80.30578065910319,1
+35,76,IL,250/500,500,1115,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,Ford,2003,71474,21,64.10224215246637,1
+575,53,OH,100/300,2000,882,High School,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Fire,Ford,2014,172277,10,195.32539682539684,1
+415,48,OH,500/1000,1000,1573,College,sales,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Ford,2009,38425,15,24.427844882390335,1
+387,79,IL,100/300,500,1483,High School,sales,Single Vehicle Collision,Front Collision,Minor Damage,Fire,Honda,2009,63699,15,42.9527983816588,1
+82,71,IL,100/300,2000,1420,College,sales,Vehicle Theft,Rear Collision,Major Damage,Police,Toyota,2008,148032,16,104.24788732394366,1
+597,78,OH,250/500,2000,2853,College,tech-support,Vehicle Theft,Front Collision,Major Damage,Ambulance,Honda,1998,138126,26,48.4143007360673,1
+325,22,IL,100/300,500,2011,High School,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Police,Ford,1998,172349,26,85.70313276976628,1
+439,46,IN,500/1000,1000,2132,College,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,Police,Toyota,2012,24834,12,11.648217636022514,0
+284,59,OH,500/1000,1000,2865,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,Honda,2016,72792,8,25.407329842931937,0
+426,34,IL,250/500,2000,998,College,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,Honda,2004,114221,20,114.4498997995992,1
+494,66,IN,500/1000,500,2369,High School,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,None,Ford,2000,93691,24,39.54875474883917,1
+65,71,OH,100/300,2000,582,College,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Fire,Honda,2023,79282,1,136.2233676975945,1
+425,59,IN,100/300,2000,2659,College,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Ford,2019,67766,5,25.485520872508463,1
+568,72,IL,100/300,1000,2416,High School,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,Police,Ford,1995,56514,29,23.391556291390728,1
+61,71,IN,100/300,1000,2227,Masters,tech-support,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,Toyota,2001,199763,23,89.70049393803323,1
+452,31,IN,500/1000,2000,501,College,sales,Single Vehicle Collision,Front Collision,Minor Damage,None,Honda,2016,122631,8,244.77245508982037,1
+501,75,IN,500/1000,1000,1401,High School,tech-support,Vehicle Theft,Side Collision,Major Damage,Police,Ford,2009,83987,15,59.94789436117059,0
+548,62,IL,500/1000,500,2090,College,tech-support,Vehicle Theft,Rear Collision,Total Loss,None,Honda,2023,4225,1,2.021531100478469,1
+413,51,OH,100/300,500,2579,Masters,sales,Vehicle Theft,Side Collision,Minor Damage,Police,Toyota,2008,84123,16,32.618456766188444,1
+583,43,IN,250/500,500,2673,High School,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,Honda,2013,146343,11,54.74859708193041,1
+32,32,IN,500/1000,500,2734,College,sales,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,Toyota,2009,21056,15,7.701536210680322,1
+447,43,OH,500/1000,1000,600,Masters,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,None,Honda,2018,120392,6,200.65333333333334,0
+130,49,OH,250/500,500,1796,High School,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Police,Toyota,2012,79518,12,44.275055679287306,1
+274,59,OH,100/300,1000,2052,High School,sales,Single Vehicle Collision,Front Collision,Total Loss,None,Honda,2021,55675,3,27.13206627680312,1
+265,30,IL,500/1000,2000,1496,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Honda,2008,13379,16,8.943181818181818,0
+131,19,OH,250/500,2000,772,High School,tech-support,Vehicle Theft,Side Collision,Total Loss,Police,Ford,2020,151882,4,196.73834196891193,1
+46,63,OH,250/500,1000,1652,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,None,Toyota,2001,12397,23,7.504237288135593,1
+233,31,IL,250/500,1000,1857,Masters,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,None,Ford,1997,197675,27,106.44857296715132,1
+398,61,IN,100/300,1000,1055,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,None,Honda,2015,120779,9,114.48246445497631,1
+87,32,OH,500/1000,500,2851,College,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,None,Honda,1998,74805,26,26.238162048404067,1
+509,63,IN,100/300,1000,1023,Masters,sales,Multi-vehicle Collision,Front Collision,Total Loss,None,Ford,2010,166637,14,162.89051808406646,1
+357,65,IL,500/1000,500,642,Masters,sales,Single Vehicle Collision,Side Collision,Minor Damage,Police,Toyota,2009,190826,15,297.2367601246106,1
+405,25,OH,100/300,2000,921,College,tech-support,Vehicle Theft,Side Collision,Major Damage,Ambulance,Honda,2004,1363,20,1.479913137893594,0
+522,75,OH,100/300,2000,1382,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Toyota,2016,172128,8,124.54992764109986,1
+12,34,IN,250/500,1000,891,High School,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,Ambulance,Toyota,1996,134639,28,151.10998877665546,1
+522,38,OH,250/500,500,2049,College,sales,Single Vehicle Collision,Rear Collision,Minor Damage,None,Honda,2001,143355,23,69.96339677891655,1
+129,43,IN,250/500,1000,2079,College,sales,Vehicle Theft,Rear Collision,Major Damage,Fire,Toyota,2013,9433,11,4.537277537277538,0
+120,25,OH,250/500,500,2604,College,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,None,Toyota,2014,40263,10,15.461981566820276,1
+586,63,OH,250/500,1000,524,Masters,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,Toyota,2001,145615,23,277.8912213740458,1
+229,51,IL,500/1000,1000,2281,College,sales,Multi-vehicle Collision,Front Collision,Major Damage,None,Toyota,2004,25918,20,11.362560280578693,0
+186,43,OH,500/1000,500,2124,College,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,Honda,2017,47330,7,22.283427495291903,0
+546,70,OH,250/500,500,2659,High School,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Toyota,1997,61282,27,23.047010154193305,0
+108,45,IN,100/300,500,1781,Masters,tech-support,Vehicle Theft,Rear Collision,Major Damage,None,Ford,2002,107749,22,60.49915777653004,1
+397,22,IL,250/500,500,1692,High School,sales,Multi-vehicle Collision,Side Collision,Major Damage,None,Ford,2001,104463,23,61.73936170212766,1
+143,65,OH,250/500,500,1399,Masters,sales,Single Vehicle Collision,Front Collision,Total Loss,Police,Toyota,2010,121044,14,86.5218012866333,0
+461,40,IL,250/500,500,754,Masters,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Police,Toyota,2022,142835,2,189.43633952254643,1
+284,73,IL,100/300,1000,1377,College,tech-support,Vehicle Theft,Rear Collision,Minor Damage,None,Honda,2008,43025,16,31.24546114742193,0
+71,73,OH,100/300,2000,2206,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,Police,Ford,2016,108509,8,49.18812330009066,0
+281,40,IN,100/300,2000,1072,High School,sales,Vehicle Theft,Side Collision,Major Damage,Ambulance,Toyota,2017,9417,7,8.784514925373134,0
+425,62,IN,500/1000,1000,1365,College,tech-support,Vehicle Theft,Rear Collision,Minor Damage,None,Ford,2021,137023,3,100.38315018315018,0
+90,66,IN,250/500,2000,1673,High School,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Fire,Toyota,2018,70351,6,42.05080693365212,1
+367,57,IL,500/1000,1000,1188,College,tech-support,Vehicle Theft,Front Collision,Total Loss,Ambulance,Honda,2006,135563,18,114.11026936026936,1
+114,74,IN,500/1000,500,1087,Masters,tech-support,Vehicle Theft,Side Collision,Major Damage,Ambulance,Honda,2015,45115,9,41.50413983440662,0
+165,38,IL,100/300,1000,2584,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Honda,1998,34635,26,13.403637770897832,0
+300,24,OH,100/300,2000,1045,College,tech-support,Vehicle Theft,Rear Collision,Major Damage,Police,Toyota,2001,116140,23,111.13875598086125,1
+444,68,OH,100/300,500,584,College,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,Police,Honda,2019,53797,5,92.1181506849315,0
+171,36,IN,100/300,500,2369,High School,sales,Single Vehicle Collision,Side Collision,Minor Damage,None,Honda,2006,56390,18,23.803292528493035,0
+219,38,IL,250/500,2000,1415,College,sales,Single Vehicle Collision,Front Collision,Minor Damage,Fire,Ford,2000,72260,24,51.06713780918728,1
+237,20,IN,100/300,2000,1244,Masters,tech-support,Vehicle Theft,Front Collision,Major Damage,Police,Ford,2014,28307,10,22.7548231511254,0
+368,40,IN,500/1000,500,2020,Masters,tech-support,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,Ford,2018,74606,6,36.93366336633663,0
+315,37,OH,100/300,2000,757,Masters,sales,Vehicle Theft,Front Collision,Minor Damage,Ambulance,Honda,2015,141021,9,186.28929986789962,1
+548,57,OH,250/500,500,703,High School,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Fire,Honda,2019,149178,5,212.20199146514935,1
+344,28,IL,500/1000,500,1140,Masters,tech-support,Vehicle Theft,Front Collision,Total Loss,Fire,Ford,2013,129364,11,113.47719298245615,1
+433,62,OH,250/500,2000,2926,Masters,sales,Vehicle Theft,Rear Collision,Major Damage,None,Honda,2021,122361,3,41.818523581681475,0
+82,61,IN,500/1000,1000,1685,Masters,sales,Multi-vehicle Collision,Side Collision,Total Loss,Police,Ford,2003,163285,21,96.90504451038575,1
+594,22,IN,250/500,2000,1459,High School,sales,Vehicle Theft,Rear Collision,Major Damage,Ambulance,Ford,2010,99707,14,68.33927347498286,1
+463,41,OH,100/300,2000,2220,Masters,sales,Single Vehicle Collision,Rear Collision,Major Damage,Fire,Ford,2012,32169,12,14.490540540540541,0
+122,34,IL,250/500,500,2002,Masters,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Fire,Honda,2012,53709,12,26.827672327672328,1
+418,61,IL,250/500,1000,1939,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,Ford,2023,127044,1,65.52037132542547,0
+376,19,IN,500/1000,500,1575,College,exec-managerial,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,Toyota,2013,161020,11,102.23492063492064,0
+483,20,OH,100/300,1000,2002,High School,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Honda,2011,14731,13,7.358141858141858,1
+589,69,IN,500/1000,2000,1890,Masters,exec-managerial,Vehicle Theft,Side Collision,Major Damage,None,Toyota,2014,193102,10,102.17037037037036,1
+493,29,OH,250/500,500,2587,College,tech-support,Vehicle Theft,Side Collision,Minor Damage,Fire,Ford,2001,101468,23,39.22226517201391,1
+162,20,IL,500/1000,500,1338,High School,sales,Multi-vehicle Collision,Front Collision,Total Loss,None,Toyota,1996,15799,28,11.807922272047833,1
+557,28,IN,100/300,2000,1614,College,sales,Multi-vehicle Collision,Rear Collision,Major Damage,None,Toyota,2009,152388,15,94.41635687732342,1
+289,39,IN,500/1000,500,1689,College,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,Honda,2009,16994,15,10.061574896388395,0
+225,33,IN,250/500,2000,2897,High School,tech-support,Vehicle Theft,Front Collision,Total Loss,None,Toyota,2001,74495,23,25.714532274767,1
+493,44,IN,500/1000,1000,2082,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,None,Honda,2015,56182,9,26.984630163304516,1
+147,26,OH,250/500,500,1517,Masters,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,None,Ford,1995,133965,29,88.30916282135794,1
+21,56,IL,250/500,1000,565,Masters,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,Police,Ford,1997,28938,27,51.21769911504425,0
+281,60,IN,500/1000,2000,1574,College,sales,Multi-vehicle Collision,Front Collision,Major Damage,Police,Toyota,1996,133283,28,84.67789072426937,0
+114,29,IN,100/300,500,1188,Masters,sales,Single Vehicle Collision,Rear Collision,Major Damage,Police,Toyota,2007,45377,17,38.196127946127945,1
+584,22,IN,500/1000,2000,1780,High School,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,None,Ford,2005,17532,19,9.84943820224719,0
+90,75,IN,500/1000,1000,1740,Masters,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Police,Ford,2016,52134,8,29.96206896551724,0
+264,75,IN,500/1000,1000,1772,High School,tech-support,Vehicle Theft,Rear Collision,Major Damage,Fire,Toyota,2016,25143,8,14.189051918735892,0
+549,39,IL,500/1000,500,1347,College,sales,Vehicle Theft,Rear Collision,Minor Damage,Police,Toyota,2003,4320,21,3.2071269487750556,0
+541,68,OH,500/1000,2000,1744,High School,sales,Vehicle Theft,Rear Collision,Minor Damage,Ambulance,Honda,2008,118569,16,67.9868119266055,1
+129,40,IN,250/500,500,2217,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Toyota,1996,130529,28,58.87640956247181,1
+404,56,OH,100/300,500,2420,High School,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,Honda,2017,71871,7,29.698760330578512,0
+449,41,IL,250/500,2000,2059,Masters,tech-support,Vehicle Theft,Rear Collision,Total Loss,None,Ford,2019,37833,5,18.374453618261292,0
+115,21,IL,100/300,2000,2944,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,Police,Honda,2012,82110,12,27.890625,1
+7,66,IN,100/300,500,675,Masters,sales,Single Vehicle Collision,Side Collision,Total Loss,None,Honda,2015,157323,9,233.07111111111112,1
+188,73,IL,250/500,1000,2583,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Police,Toyota,2013,45565,11,17.640340689121178,0
+357,70,OH,250/500,1000,1987,High School,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,None,Ford,2009,198916,15,100.10870659285355,1
+336,77,IL,500/1000,500,2497,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,Toyota,1997,86945,27,34.81978374048859,1
+514,68,OH,500/1000,2000,1911,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Police,Toyota,2020,84049,4,43.98168498168498,0
+69,62,IN,100/300,500,1428,College,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,Police,Honda,2008,153472,16,107.4733893557423,1
+157,32,OH,250/500,1000,1964,High School,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Honda,2004,124199,20,63.2377800407332,1
+255,37,IN,100/300,500,960,Masters,sales,Single Vehicle Collision,Front Collision,Major Damage,None,Toyota,2016,113196,8,117.9125,1
+32,50,IN,500/1000,1000,2661,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,Toyota,2020,79209,4,29.76662908680947,0
+537,68,OH,500/1000,2000,2858,Masters,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Police,Ford,2006,29718,18,10.398180545836249,0
+581,75,IN,250/500,2000,2508,College,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Honda,2017,37674,7,15.02153110047847,0
+126,41,OH,250/500,2000,2735,College,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,Ford,1996,106433,28,38.915173674588665,1
+558,61,IN,100/300,2000,2513,College,exec-managerial,Vehicle Theft,Front Collision,Major Damage,None,Honda,2019,167766,5,66.75925189017111,1
+281,36,OH,500/1000,2000,827,Masters,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,Fire,Ford,2012,73361,12,88.7073760580411,0
+229,36,OH,500/1000,2000,1023,High School,sales,Single Vehicle Collision,Front Collision,Minor Damage,Fire,Toyota,2016,167862,8,164.08797653958945,1
+18,67,OH,250/500,1000,2211,High School,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Honda,2012,83597,12,37.80958842152872,0
+425,25,IN,100/300,2000,945,High School,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,Honda,2020,152462,4,161.33544973544974,1
+563,40,IL,250/500,500,1224,High School,sales,Single Vehicle Collision,Side Collision,Total Loss,Police,Ford,2014,92009,10,75.17075163398692,0
+186,51,IL,250/500,2000,1203,High School,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,Police,Toyota,1997,138866,27,115.43308395677472,1
+129,44,IL,100/300,1000,2047,High School,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,None,Ford,2016,34123,8,16.669760625305326,0
+29,52,IN,500/1000,2000,2524,Masters,sales,Single Vehicle Collision,Side Collision,Major Damage,None,Ford,1996,60557,28,23.992472266244057,1
+541,20,IN,250/500,500,1960,Masters,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Ford,2015,95968,9,48.96326530612245,0
+379,23,IL,100/300,500,878,College,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,Fire,Ford,1999,116080,25,132.20956719817767,1
+347,66,IN,500/1000,500,2970,College,sales,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,Ford,2019,161897,5,54.51077441077441,1
+2,56,OH,100/300,1000,1912,High School,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,Fire,Honda,2019,174688,5,91.36401673640168,1
+323,50,OH,500/1000,500,512,Masters,tech-support,Single Vehicle Collision,Side Collision,Total Loss,None,Honda,1999,134089,25,261.892578125,1
+387,77,OH,500/1000,500,2281,High School,sales,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,Ford,2019,15591,5,6.835160017536168,0
+172,26,IN,500/1000,1000,2112,Masters,sales,Vehicle Theft,Front Collision,Total Loss,Police,Honda,2010,160912,14,76.18939393939394,0
+146,24,IN,100/300,2000,1027,Masters,sales,Multi-vehicle Collision,Front Collision,Total Loss,Police,Honda,2009,157080,15,152.95034079844206,1
+279,74,IL,100/300,1000,2945,High School,sales,Vehicle Theft,Front Collision,Total Loss,None,Toyota,2012,74366,12,25.251612903225805,1
+488,35,OH,100/300,500,2473,High School,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,None,Toyota,1996,1595,28,0.6449656287909422,0
+344,38,IL,500/1000,1000,944,High School,sales,Vehicle Theft,Front Collision,Total Loss,None,Ford,2020,76791,4,81.34639830508475,1
+21,67,IL,100/300,500,1806,High School,sales,Single Vehicle Collision,Front Collision,Minor Damage,Fire,Ford,2014,78926,10,43.70210409745293,0
+198,62,IN,500/1000,2000,736,College,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,2020,50111,4,68.08559782608695,1
+273,31,IN,100/300,2000,2572,Masters,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Toyota,2022,89290,2,34.716174183514774,1
+86,36,IN,100/300,2000,1758,Masters,exec-managerial,Vehicle Theft,Front Collision,Total Loss,None,Honda,2017,187770,7,106.80887372013652,1
+463,46,IN,500/1000,1000,583,Masters,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,Honda,2013,22322,11,38.288164665523155,0
+413,28,OH,250/500,2000,1061,College,sales,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Ford,2006,129692,18,122.23562676720076,1
+75,56,OH,100/300,1000,1538,Masters,sales,Single Vehicle Collision,Rear Collision,Total Loss,Police,Toyota,1998,125891,26,81.85370611183355,1
+371,52,OH,100/300,1000,2181,High School,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Honda,2000,130237,24,59.714351215038974,1
+12,62,IN,250/500,2000,906,High School,tech-support,Vehicle Theft,Rear Collision,Major Damage,None,Honda,2011,43399,13,47.90176600441501,1
+262,44,IN,100/300,1000,1813,Masters,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,None,Toyota,2012,132627,12,73.15333701047987,0
+380,24,IL,100/300,1000,2430,College,sales,Vehicle Theft,Front Collision,Major Damage,None,Ford,2012,8373,12,3.445679012345679,1
+118,62,OH,500/1000,500,1492,High School,sales,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,Honda,2019,151534,5,101.56434316353888,1
+190,56,IL,250/500,500,985,College,sales,Single Vehicle Collision,Side Collision,Major Damage,None,Toyota,1997,14163,27,14.378680203045684,1
+595,65,IL,500/1000,2000,1418,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,2003,129303,21,91.18688293370946,1
+173,59,OH,250/500,500,2666,Masters,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,Ford,2022,165052,2,61.90997749437359,0
+394,36,IN,250/500,2000,2392,High School,sales,Vehicle Theft,Rear Collision,Major Damage,Fire,Ford,2021,113551,3,47.47115384615385,0
+258,26,IL,250/500,500,724,College,sales,Vehicle Theft,Front Collision,Major Damage,None,Toyota,2009,188397,15,260.21685082872926,1
+480,44,OH,500/1000,500,1009,High School,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Toyota,2018,126014,6,124.88999008919723,0
+437,71,IN,100/300,2000,1263,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,Ford,2010,120815,14,95.6571654790182,0
+302,55,IN,100/300,2000,847,College,exec-managerial,Vehicle Theft,Front Collision,Minor Damage,Ambulance,Honda,2014,125277,10,147.90672963400237,1
+444,66,OH,100/300,500,2221,High School,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,Police,Toyota,1995,10491,29,4.723547951373256,1
+522,26,OH,100/300,2000,1406,College,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,Honda,2016,168462,8,119.81650071123755,1
+360,18,IN,100/300,1000,1279,Masters,tech-support,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Ford,2016,35268,8,27.57466770914777,1
+93,76,IL,500/1000,2000,1066,Masters,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,Honda,2007,162100,17,152.06378986866793,1
+428,34,IN,100/300,2000,1616,College,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Police,Honda,2006,146764,18,90.81930693069307,0
+270,44,OH,100/300,2000,2632,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Fire,Toyota,2007,99971,17,37.98290273556231,1
+47,56,IL,250/500,2000,561,High School,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Fire,Honda,2002,131000,22,233.5115864527629,1
+337,59,IN,250/500,2000,1659,Masters,sales,Single Vehicle Collision,Front Collision,Total Loss,Fire,Toyota,2012,39931,12,24.06931886678722,0
+376,73,IN,250/500,500,1116,College,exec-managerial,Vehicle Theft,Front Collision,Total Loss,Police,Ford,2004,113223,20,101.45430107526882,1
+224,23,IN,500/1000,2000,725,College,sales,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,Toyota,2020,118491,4,163.43586206896552,1
+501,45,IN,500/1000,500,2768,College,sales,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Ford,1999,40601,25,14.667991329479769,0
+161,48,IL,250/500,1000,2789,Masters,sales,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,2018,82542,6,29.595553961993545,0
+212,51,OH,250/500,500,1326,College,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,Honda,2021,19608,3,14.787330316742082,0
+267,55,IN,500/1000,500,1201,Masters,sales,Single Vehicle Collision,Front Collision,Major Damage,None,Toyota,2002,109306,22,91.01248959200666,1
+320,36,IL,250/500,1000,1443,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,Fire,Ford,2008,13336,16,9.241857241857241,1
+536,72,OH,500/1000,2000,733,High School,tech-support,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Honda,2018,89074,6,121.51978171896316,0
+452,53,OH,100/300,2000,1094,College,tech-support,Vehicle Theft,Front Collision,Major Damage,Ambulance,Ford,2023,8869,1,8.106946983546617,0
+527,74,IL,250/500,2000,2743,Masters,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Police,Toyota,2011,147836,13,53.8957345971564,0
+77,54,IN,100/300,1000,1072,College,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Fire,Ford,2023,16210,1,15.121268656716419,0
+326,66,OH,100/300,500,2127,College,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,Toyota,2013,86765,11,40.79219558062999,1
+481,18,OH,100/300,500,1575,Masters,sales,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,Toyota,2017,62293,7,39.55111111111111,0
+598,78,OH,250/500,2000,2377,High School,sales,Single Vehicle Collision,Front Collision,Major Damage,Police,Ford,2019,67201,5,28.271350441733276,1
+270,73,OH,100/300,1000,1667,College,tech-support,Vehicle Theft,Front Collision,Total Loss,Police,Honda,2009,67133,15,40.271745650869825,0
+558,66,IL,100/300,500,2424,College,tech-support,Vehicle Theft,Front Collision,Major Damage,None,Ford,2009,128602,15,53.053630363036305,1
+560,31,OH,500/1000,500,2724,High School,tech-support,Vehicle Theft,Side Collision,Minor Damage,Police,Honda,2004,133425,20,48.981277533039645,1
+216,29,IL,500/1000,2000,2702,College,tech-support,Single Vehicle Collision,Front Collision,Major Damage,Police,Honda,2012,169981,12,62.909326424870464,0
+79,43,IL,250/500,500,1465,College,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,None,Honda,2006,21389,18,14.6,0
+551,24,IL,500/1000,500,1664,College,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,Toyota,2003,144113,21,86.6063701923077,1
+415,23,IL,500/1000,2000,2144,College,sales,Vehicle Theft,Front Collision,Major Damage,Fire,Ford,2009,21369,15,9.966884328358208,0
+514,57,IN,500/1000,1000,2457,College,sales,Single Vehicle Collision,Side Collision,Minor Damage,Fire,Toyota,2013,168809,11,68.7053317053317,0
+149,41,IL,250/500,1000,2164,College,sales,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,Ford,2017,178612,7,82.53789279112755,1
+438,43,IN,250/500,1000,2868,High School,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Police,Toyota,2011,49825,13,17.37273361227336,0
+285,60,IL,250/500,2000,2525,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,None,Honda,2013,185704,11,73.54613861386139,1
+130,34,IN,500/1000,2000,807,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Toyota,2003,62779,21,77.79306071871127,1
+168,62,OH,100/300,1000,645,College,exec-managerial,Vehicle Theft,Front Collision,Major Damage,Ambulance,Honda,2009,94190,15,146.03100775193798,1
+371,54,IL,500/1000,1000,2712,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,None,Toyota,2023,160297,1,59.10656342182891,1
+82,60,OH,250/500,500,2496,College,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Fire,Ford,2003,57866,21,23.18349358974359,1
+42,38,OH,500/1000,2000,2518,High School,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,None,Toyota,2017,137262,7,54.51231135822081,0
+162,26,OH,100/300,500,2342,College,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Fire,Toyota,2020,150667,4,64.33262169086251,0
+548,65,OH,250/500,1000,1215,Masters,sales,Multi-vehicle Collision,Front Collision,Minor Damage,Ambulance,Honda,2004,166542,20,137.0716049382716,1
+65,32,OH,250/500,2000,2652,College,sales,Single Vehicle Collision,Rear Collision,Total Loss,Police,Honda,2016,76603,8,28.88499245852187,1
+592,32,OH,500/1000,2000,2019,High School,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,Police,Honda,2005,125713,19,62.26498266468549,1
+320,48,OH,500/1000,500,1021,High School,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Fire,Honda,2011,95154,13,93.19686581782567,1
+293,18,IN,250/500,500,2812,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,Honda,2016,142041,8,50.512446657183496,1
+106,33,OH,100/300,1000,2432,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Ford,2009,55437,15,22.79481907894737,1
+276,37,OH,250/500,500,2725,College,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Ford,2004,8612,20,3.1603669724770644,0
+359,34,IL,100/300,2000,2361,Masters,tech-support,Vehicle Theft,Rear Collision,Minor Damage,None,Ford,2001,32385,23,13.716645489199491,0
+159,43,IN,100/300,2000,1570,High School,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,None,Toyota,1997,75408,27,48.03057324840764,1
+482,25,IL,100/300,1000,1753,College,sales,Single Vehicle Collision,Front Collision,Minor Damage,Police,Honda,2017,67691,7,38.61437535653166,0
+270,55,OH,100/300,2000,949,Masters,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,Fire,Ford,2008,167305,16,176.29610115911487,1
+104,59,IN,250/500,1000,752,Masters,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Fire,Toyota,1998,147320,26,195.90425531914894,1
+139,37,IL,100/300,2000,1214,Masters,sales,Vehicle Theft,Rear Collision,Total Loss,Police,Ford,2007,102448,17,84.38879736408566,1
+410,55,IN,100/300,2000,2635,Masters,tech-support,Single Vehicle Collision,Front Collision,Major Damage,None,Toyota,1996,103153,28,39.147248576850096,1
+142,78,IL,100/300,500,2699,College,sales,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,Honda,2011,80071,13,29.66691367173027,1
+268,37,IN,500/1000,500,2724,Masters,sales,Vehicle Theft,Front Collision,Total Loss,Fire,Toyota,2021,143667,3,52.741189427312776,1
+510,40,IN,250/500,500,1986,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,Toyota,2016,149395,8,75.2240684793555,0
+564,71,OH,500/1000,1000,1161,High School,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Police,Ford,1999,20510,25,17.665805340223944,0
+246,65,OH,100/300,2000,1654,College,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Police,Honda,1997,41969,27,25.37424425634825,0
+569,44,IL,100/300,500,2630,High School,tech-support,Vehicle Theft,Side Collision,Total Loss,Police,Ford,2006,176635,18,67.16159695817491,1
+41,56,IN,250/500,2000,2826,Masters,tech-support,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Toyota,2000,119371,24,42.240268931351736,0
+393,30,IL,100/300,2000,2462,College,tech-support,Vehicle Theft,Front Collision,Major Damage,None,Honda,2003,115634,21,46.967506092607636,1
+492,65,OH,500/1000,500,767,High School,tech-support,Vehicle Theft,Front Collision,Major Damage,Fire,Honda,2019,126555,5,165.0,1
+209,42,IL,100/300,500,1116,Masters,exec-managerial,Vehicle Theft,Front Collision,Major Damage,Fire,Honda,2010,189704,14,169.98566308243727,1
+346,75,OH,500/1000,1000,1695,College,tech-support,Vehicle Theft,Side Collision,Total Loss,Ambulance,Honda,1996,3402,28,2.007079646017699,1
+535,21,IN,500/1000,500,861,High School,tech-support,Vehicle Theft,Front Collision,Minor Damage,Fire,Toyota,2001,164030,23,190.51103368176538,1
+194,77,IL,100/300,2000,2734,College,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,None,Toyota,2014,98919,10,36.18105340160936,1
+428,27,IL,100/300,1000,1242,High School,sales,Single Vehicle Collision,Rear Collision,Total Loss,Fire,Honda,2014,153606,10,123.67632850241546,1
+522,65,OH,500/1000,1000,1048,Masters,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Police,Toyota,2018,7475,6,7.13263358778626,1
+381,45,IL,500/1000,500,816,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Honda,2011,13856,13,16.980392156862745,0
+584,23,IN,500/1000,2000,2633,College,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,Ford,2003,8436,21,3.203949867071781,0
+351,69,IN,100/300,2000,2306,College,sales,Single Vehicle Collision,Front Collision,Minor Damage,None,Ford,1995,5507,29,2.3881179531656547,0
+192,32,IN,500/1000,2000,881,Masters,sales,Single Vehicle Collision,Front Collision,Major Damage,Fire,Honda,2012,34371,12,39.01362088535755,1
+309,73,IL,250/500,1000,1359,College,tech-support,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,Toyota,2021,27745,3,20.415746872700517,0
+156,63,IN,250/500,500,1796,High School,tech-support,Vehicle Theft,Front Collision,Major Damage,Police,Ford,1997,168022,27,93.55345211581292,1
+99,44,OH,250/500,1000,756,High School,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,Police,Ford,2009,43503,15,57.54365079365079,0
+359,27,IN,250/500,500,1862,College,tech-support,Vehicle Theft,Side Collision,Total Loss,Ambulance,Ford,2014,199393,10,107.08539205155746,0
+23,65,OH,250/500,1000,1180,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,None,Ford,2021,132832,3,112.56949152542373,1
+380,62,IN,250/500,500,2620,College,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,None,Toyota,2023,86001,1,32.82480916030534,1
+60,74,IL,250/500,2000,941,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,None,Honda,2018,117378,6,124.7375132837407,1
+167,32,IN,100/300,500,2292,Masters,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,Ford,2011,135819,13,59.25785340314136,0
+533,30,OH,500/1000,2000,569,High School,sales,Multi-vehicle Collision,Front Collision,Major Damage,None,Ford,2016,14092,8,24.766256590509666,1
+431,75,OH,250/500,1000,1587,Masters,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Toyota,2022,99560,2,62.73471959672338,1
+25,43,OH,500/1000,500,2904,Masters,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,None,Toyota,2009,70687,15,24.34125344352617,0
+449,42,OH,250/500,1000,2596,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,Police,Toyota,2022,76117,2,29.320878274268104,0
+444,37,IN,500/1000,2000,2604,College,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Ford,1995,154738,29,59.42319508448541,1
+374,33,IN,250/500,500,587,High School,sales,Single Vehicle Collision,Rear Collision,Minor Damage,None,Toyota,2009,74309,15,126.59114139693357,1
+61,75,IL,500/1000,1000,2579,High School,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,Police,Honda,2015,63543,9,24.638619620007756,0
+473,48,IL,250/500,1000,2154,Masters,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,Toyota,2000,90493,24,42.011606313834726,0
+549,63,OH,500/1000,500,646,College,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,2018,181891,6,281.56501547987614,1
+421,19,OH,250/500,500,2480,High School,tech-support,Vehicle Theft,Front Collision,Total Loss,Fire,Honda,2006,99375,18,40.07056451612903,1
+337,56,IL,250/500,500,1798,Masters,tech-support,Vehicle Theft,Front Collision,Major Damage,None,Honda,2012,134692,12,74.91212458286985,1
+203,48,OH,250/500,2000,1940,College,exec-managerial,Vehicle Theft,Front Collision,Major Damage,Fire,Ford,2008,82371,16,42.45927835051546,0
+123,43,IN,500/1000,500,1340,College,tech-support,Vehicle Theft,Side Collision,Major Damage,Fire,Honda,1999,75723,25,56.50970149253731,1
+216,72,OH,100/300,2000,1613,Masters,tech-support,Single Vehicle Collision,Front Collision,Total Loss,Police,Honda,2005,54171,19,33.58400495970242,1
+232,32,OH,250/500,500,1574,High School,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,Honda,2018,131833,6,83.7566709021601,1
+186,48,IL,100/300,2000,2832,High School,tech-support,Single Vehicle Collision,Front Collision,Major Damage,Fire,Toyota,2008,39897,16,14.087923728813559,0
+387,40,OH,100/300,2000,951,High School,tech-support,Vehicle Theft,Side Collision,Minor Damage,Fire,Toyota,2020,154893,4,162.87381703470032,0
+451,18,OH,250/500,2000,2881,High School,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Police,Honda,2011,76147,13,26.43075321069073,0
+417,50,OH,100/300,1000,2194,Masters,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,None,Honda,2018,39985,6,18.224703737465816,1
+564,51,OH,500/1000,2000,2144,High School,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,None,Ford,2023,189347,1,88.31483208955224,1
+493,78,IL,250/500,1000,2131,High School,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,None,Toyota,2002,59830,22,28.076020647583295,1
+121,22,IN,250/500,1000,1562,College,sales,Single Vehicle Collision,Front Collision,Minor Damage,Police,Ford,2018,18790,6,12.02944942381562,0
+500,59,OH,250/500,500,1741,High School,sales,Vehicle Theft,Rear Collision,Major Damage,Police,Ford,1996,38271,28,21.982194141298105,0
+21,36,OH,500/1000,1000,2750,High School,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Police,Toyota,2019,83912,5,30.513454545454547,0
+490,58,IN,100/300,1000,1391,High School,sales,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,Honda,2020,136607,4,98.2077641984184,1
+421,62,OH,100/300,2000,672,College,sales,Multi-vehicle Collision,Side Collision,Minor Damage,None,Ford,1995,34822,29,51.81845238095238,0
+344,25,OH,250/500,1000,1542,College,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,None,Toyota,2005,74551,19,48.346952010376135,1
+278,26,OH,100/300,2000,772,High School,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Police,Toyota,2006,113424,18,146.9222797927461,1
+339,71,OH,500/1000,1000,1848,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Toyota,2009,116640,15,63.116883116883116,0
+495,55,OH,500/1000,1000,1246,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Toyota,2010,149112,14,119.6725521669342,0
+269,25,OH,100/300,2000,2262,High School,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,Honda,2012,12292,12,5.4341290893015035,0
+17,73,IN,250/500,2000,2177,Masters,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,Police,Toyota,2017,84509,7,38.81901699586587,0
+553,51,IL,100/300,500,1267,High School,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,None,Honda,2018,143513,6,113.26992896606156,1
+59,18,OH,100/300,500,2642,High School,tech-support,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Ford,1999,7212,25,2.729750189250568,0
+89,36,OH,250/500,1000,2840,Masters,tech-support,Single Vehicle Collision,Front Collision,Total Loss,Fire,Ford,2012,137611,12,48.454577464788734,0
+157,22,OH,100/300,2000,2011,Masters,exec-managerial,Vehicle Theft,Side Collision,Total Loss,None,Ford,2023,157189,1,78.16459472899055,1
+497,77,IN,100/300,500,829,High School,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Ambulance,Toyota,2003,48850,21,58.926417370325694,0
+164,50,OH,100/300,500,2113,Masters,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,Honda,1998,117189,26,55.4609559867487,1
+53,30,IN,500/1000,1000,1123,Masters,tech-support,Vehicle Theft,Side Collision,Major Damage,Fire,Honda,2007,21156,17,18.838824577025825,0
+19,18,IN,100/300,1000,2073,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,Honda,1998,133232,26,64.27013989387362,1
+469,43,IL,500/1000,1000,523,High School,sales,Vehicle Theft,Side Collision,Major Damage,Police,Honda,2019,2212,5,4.22944550669216,0
+249,29,OH,100/300,2000,1940,College,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,Honda,2000,117049,24,60.33453608247423,1
+456,30,IL,500/1000,500,2092,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,Toyota,2007,124182,17,59.360420650095605,1
+22,18,OH,100/300,1000,2198,Masters,sales,Vehicle Theft,Front Collision,Total Loss,Fire,Ford,2007,129140,17,58.75341219290264,1
+228,42,IL,500/1000,1000,2186,Masters,sales,Multi-vehicle Collision,Front Collision,Minor Damage,Police,Toyota,2021,187258,3,85.66239707227814,0
+234,20,IL,100/300,2000,569,College,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Police,Ford,2018,49068,6,86.23550087873463,1
+325,54,IL,250/500,1000,543,Masters,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,Police,Ford,2022,128192,2,236.08103130755063,1
+353,56,OH,500/1000,2000,1714,College,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Honda,2015,19402,9,11.319719953325555,0
+317,61,OH,100/300,1000,1399,College,sales,Single Vehicle Collision,Side Collision,Total Loss,Police,Ford,1999,118845,25,84.94996426018585,1
+318,52,IN,100/300,2000,2078,College,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,None,Honda,2001,29460,23,14.177093358999038,1
+233,24,IL,500/1000,2000,1205,College,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Ford,2020,107206,4,88.96763485477179,1
+428,74,IN,250/500,1000,2693,Masters,tech-support,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Toyota,2002,196586,22,72.99888600074267,0
+221,67,IN,100/300,1000,665,College,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,Toyota,2016,3978,8,5.981954887218045,0
+101,65,IN,100/300,500,1258,Masters,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Police,Honda,2003,2995,21,2.3807631160572336,0
+307,36,IL,500/1000,500,2674,High School,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Ford,2010,152786,14,57.1376215407629,0
+527,18,IL,100/300,500,1619,High School,tech-support,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Toyota,2014,195405,10,120.69487337862878,1
+416,71,IL,500/1000,500,2583,Masters,tech-support,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Toyota,2014,104565,10,40.48199767711963,1
+591,23,OH,500/1000,2000,626,High School,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,None,Ford,2010,64753,14,103.43929712460064,1
+497,73,OH,250/500,1000,1469,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,Honda,2009,17375,15,11.827773995915589,0
+208,19,IL,500/1000,1000,1261,College,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,None,Toyota,2017,161253,7,127.8770816812054,1
+293,44,IN,500/1000,500,2193,Masters,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Police,Toyota,2019,183088,5,83.4874601003192,0
+463,71,IL,100/300,500,1494,Masters,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,Police,Ford,2023,63901,1,42.771753681392234,1
+470,38,IL,250/500,1000,2741,College,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,Fire,Toyota,2012,117585,12,42.89857716161985,0
+249,40,OH,250/500,2000,1422,College,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,None,Ford,2006,47069,18,33.10056258790436,1
+543,71,IN,100/300,1000,2166,College,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Fire,Toyota,2014,140324,10,64.78485687903971,0
+466,68,IN,100/300,500,972,Masters,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,None,Ford,2000,145905,24,150.10802469135803,1
+449,75,IN,250/500,2000,2068,College,tech-support,Vehicle Theft,Side Collision,Total Loss,Police,Ford,2016,17978,8,8.693423597678917,0
+12,30,OH,500/1000,1000,1659,High School,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,None,Honda,2009,85730,15,51.67570825798674,1
+578,76,IL,100/300,500,1261,Masters,sales,Vehicle Theft,Rear Collision,Minor Damage,Fire,Honda,2023,136486,1,108.23632038065028,1
+42,46,OH,500/1000,2000,2149,High School,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Fire,Honda,2010,124971,14,58.153094462540714,1
+221,23,IN,500/1000,500,1270,College,tech-support,Multi-vehicle Collision,Side Collision,Minor Damage,None,Ford,2020,180961,4,142.48897637795275,1
+455,27,IL,100/300,1000,727,College,sales,Single Vehicle Collision,Rear Collision,Major Damage,Fire,Honda,2005,140728,19,193.5735900962861,1
+66,56,OH,500/1000,1000,908,College,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Toyota,1998,140032,26,154.2202643171806,1
+61,53,IL,250/500,500,2751,College,sales,Single Vehicle Collision,Rear Collision,Minor Damage,None,Honda,1999,130466,25,47.42493638676845,0
+411,27,IN,100/300,1000,2096,Masters,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,Honda,2000,56486,24,26.94942748091603,0
+367,42,IL,500/1000,1000,2679,Masters,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,None,Honda,2005,166229,19,62.04889884285181,1
+226,42,IL,100/300,500,2116,Masters,sales,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Ford,1997,11588,27,5.4763705103969755,0
+282,57,IL,500/1000,2000,2169,High School,tech-support,Vehicle Theft,Side Collision,Minor Damage,None,Toyota,2009,58014,15,26.74688796680498,1
+93,70,IN,100/300,2000,1028,High School,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,None,Honda,2011,26905,13,26.17217898832685,1
+464,25,OH,100/300,2000,1401,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Minor Damage,Police,Honda,1999,182593,25,130.33047822983582,1
+319,42,IN,500/1000,1000,1223,Masters,tech-support,Single Vehicle Collision,Front Collision,Major Damage,None,Ford,2020,71382,4,58.366312346688474,1
+570,78,IN,250/500,2000,864,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Police,Honda,2021,39138,3,45.298611111111114,1
+180,32,OH,500/1000,500,2803,College,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Fire,Honda,2012,18634,12,6.647877274348912,0
+322,30,IN,250/500,2000,2232,Masters,tech-support,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Ford,2014,74686,10,33.46146953405018,0
+244,53,OH,250/500,500,2170,High School,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Ford,2006,142758,18,65.78709677419354,1
+357,65,OH,500/1000,1000,2238,Masters,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,None,Honda,2013,84127,11,37.590259159964255,1
+353,51,OH,100/300,2000,2179,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,Toyota,2006,180772,18,82.96099128040386,1
+255,38,IN,250/500,500,536,High School,sales,Vehicle Theft,Front Collision,Major Damage,Fire,Honda,2003,72468,21,135.20149253731344,1
+342,64,OH,100/300,1000,2790,Masters,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Fire,Ford,2012,12929,12,4.63405017921147,0
+122,77,IL,500/1000,2000,1100,Masters,sales,Vehicle Theft,Side Collision,Total Loss,Police,Honda,2018,82991,6,75.44636363636364,1
+373,36,OH,100/300,2000,2530,College,sales,Multi-vehicle Collision,Front Collision,Major Damage,Police,Toyota,2004,180889,20,71.49762845849803,1
+459,34,IN,100/300,500,2765,Masters,tech-support,Vehicle Theft,Side Collision,Major Damage,Police,Toyota,2010,24086,14,8.711030741410488,0
+418,61,OH,250/500,2000,755,High School,sales,Vehicle Theft,Side Collision,Minor Damage,Police,Toyota,2000,157218,24,208.23576158940398,1
+473,33,IN,100/300,500,847,College,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,Fire,Ford,1995,196804,29,232.35419126328216,1
+466,52,IN,250/500,1000,1053,Masters,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Fire,Toyota,2007,154047,17,146.2934472934473,1
+92,39,OH,100/300,2000,2785,Masters,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,None,Ford,2003,94295,21,33.858168761220824,1
+221,41,IL,100/300,500,2985,College,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,Fire,Ford,2023,41581,1,13.92998324958124,0
+492,55,IL,100/300,2000,2847,Masters,exec-managerial,Vehicle Theft,Side Collision,Major Damage,None,Ford,2022,49135,2,17.258517737969793,0
+131,49,OH,250/500,1000,1977,Masters,sales,Vehicle Theft,Side Collision,Minor Damage,Police,Toyota,2007,199581,17,100.9514415781487,1
+32,41,IN,100/300,2000,1751,Masters,exec-managerial,Vehicle Theft,Side Collision,Major Damage,Ambulance,Toyota,2007,135760,17,77.53283837806967,1
+44,63,OH,250/500,1000,2723,College,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,None,Toyota,2013,82462,11,30.28351083363937,0
+527,74,IN,500/1000,500,714,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Fire,Ford,2015,166341,9,232.97058823529412,1
+175,33,IL,250/500,2000,1492,College,tech-support,Vehicle Theft,Front Collision,Major Damage,Fire,Honda,1995,135137,29,90.57439678284182,0
+470,62,OH,100/300,2000,1175,High School,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,Police,Honda,2020,21043,4,17.908936170212765,0
+424,70,OH,250/500,2000,756,College,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,Police,Ford,2006,84038,18,111.16137566137566,0
+187,23,OH,100/300,500,2095,College,tech-support,Single Vehicle Collision,Front Collision,Total Loss,Fire,Ford,2018,66350,6,31.670644391408114,1
+560,78,OH,100/300,1000,1622,Masters,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,Toyota,1999,63085,25,38.893341553637484,1
+8,26,IL,100/300,2000,2696,High School,exec-managerial,Vehicle Theft,Front Collision,Total Loss,Police,Ford,2003,9484,21,3.5178041543026706,0
+317,31,OH,250/500,500,2443,High School,sales,Multi-vehicle Collision,Side Collision,Total Loss,None,Honda,2010,26651,14,10.909128121162505,0
+221,61,IL,100/300,500,862,College,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Fire,Ford,2004,73254,20,84.98143851508121,1
+309,69,IL,100/300,500,2092,Masters,exec-managerial,Vehicle Theft,Front Collision,Major Damage,None,Toyota,1999,176050,25,84.15391969407266,0
+553,71,IN,500/1000,1000,2529,Masters,sales,Single Vehicle Collision,Rear Collision,Total Loss,Police,Honda,2006,101804,18,40.254646105179916,1
+594,36,IL,100/300,2000,1060,High School,exec-managerial,Vehicle Theft,Side Collision,Major Damage,Police,Toyota,1999,72694,25,68.57924528301886,1
+259,55,IL,100/300,2000,1312,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,Police,Honda,1995,55766,29,42.50457317073171,0
+30,27,OH,250/500,2000,2414,High School,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,Toyota,2015,183017,9,75.81483015741507,1
+584,55,IN,500/1000,500,770,College,tech-support,Single Vehicle Collision,Front Collision,Total Loss,None,Toyota,1997,125786,27,163.35844155844157,1
+96,46,OH,250/500,2000,1467,Masters,sales,Vehicle Theft,Rear Collision,Major Damage,Police,Toyota,2000,39015,24,26.595092024539877,0
+128,20,IL,250/500,2000,1154,Masters,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,None,Toyota,1998,88052,26,76.30155979202773,1
+120,54,IL,100/300,1000,1151,High School,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,Fire,Honda,2019,119915,5,104.18331885317116,1
+109,19,IL,500/1000,1000,2822,Masters,tech-support,Vehicle Theft,Rear Collision,Major Damage,Ambulance,Honda,2023,73790,1,26.148121899362156,0
+540,43,IN,500/1000,2000,821,Masters,exec-managerial,Vehicle Theft,Side Collision,Major Damage,Ambulance,Toyota,2022,162938,2,198.46285018270402,1
+333,60,IL,500/1000,500,1449,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,Police,Ford,1996,68936,28,47.57487922705314,1
+130,76,IN,250/500,500,1479,Masters,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,None,Honda,2019,62920,5,42.54225828262339,1
+335,39,IN,500/1000,500,2911,College,sales,Single Vehicle Collision,Side Collision,Major Damage,Ambulance,Ford,1995,17427,29,5.986602542081759,0
+292,34,OH,250/500,2000,1375,High School,sales,Vehicle Theft,Front Collision,Minor Damage,None,Honda,2022,13300,2,9.672727272727272,0
+456,37,OH,500/1000,1000,1653,High School,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,None,Ford,2017,86757,7,52.48457350272232,1
+460,74,IL,100/300,2000,2037,High School,sales,Single Vehicle Collision,Rear Collision,Total Loss,Fire,Honda,1997,113035,27,55.49091801669121,1
+304,56,IL,250/500,500,2705,Masters,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,Police,Toyota,1999,194100,25,71.75600739371534,1
+47,38,IL,500/1000,2000,1065,College,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,Police,Toyota,2008,187637,16,176.18497652582158,1
+52,69,IN,100/300,500,1040,Masters,exec-managerial,Vehicle Theft,Front Collision,Major Damage,Ambulance,Ford,2015,4810,9,4.625,0
+273,49,IN,250/500,1000,2036,College,tech-support,Single Vehicle Collision,Side Collision,Major Damage,None,Ford,2012,159069,12,78.12819253438114,1
+14,22,OH,250/500,500,1091,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,Toyota,2009,14731,15,13.502291475710358,0
+423,46,IN,250/500,2000,1577,College,sales,Vehicle Theft,Front Collision,Minor Damage,Fire,Toyota,2015,114535,9,72.6284083703234,1
+166,79,IN,500/1000,500,1459,Masters,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,Police,Toyota,2014,45387,10,31.10829335161069,0
+402,22,IL,250/500,1000,753,High School,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,Toyota,2017,12920,7,17.158034528552456,0
+46,25,IL,100/300,2000,2255,College,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Honda,2002,194581,22,86.28869179600886,1
+526,38,IL,500/1000,500,656,Masters,sales,Vehicle Theft,Side Collision,Minor Damage,None,Ford,2012,113004,12,172.2621951219512,1
+315,64,IN,500/1000,2000,1490,High School,sales,Single Vehicle Collision,Front Collision,Major Damage,Police,Toyota,1995,48037,29,32.23959731543624,1
+376,55,IN,100/300,2000,1323,College,sales,Vehicle Theft,Side Collision,Total Loss,None,Toyota,2003,10415,21,7.872260015117158,1
+311,29,OH,250/500,500,2286,College,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,Police,Toyota,2000,107777,24,47.146544181977255,1
+440,31,IN,250/500,1000,2642,High School,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,Toyota,2021,179468,3,67.92884178652535,1
+87,31,IN,100/300,2000,2431,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,Honda,2014,114415,10,47.06499382969971,1
+546,61,IL,100/300,2000,2977,College,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Fire,Toyota,2007,98819,17,33.194155189788376,1
+343,41,IN,500/1000,1000,2840,High School,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,None,Honda,2004,102206,20,35.988028169014086,1
+379,26,IL,250/500,500,1100,High School,tech-support,Single Vehicle Collision,Front Collision,Total Loss,None,Honda,2016,167762,8,152.51090909090908,1
+321,71,IN,100/300,500,2012,College,tech-support,Vehicle Theft,Front Collision,Total Loss,Police,Toyota,2018,95218,6,47.32504970178926,1
+590,68,IN,100/300,500,1190,High School,exec-managerial,Vehicle Theft,Front Collision,Minor Damage,Police,Toyota,2002,62836,22,52.80336134453781,1
+591,29,OH,100/300,500,1045,College,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,Ambulance,Toyota,2017,170573,7,163.22775119617225,1
+595,50,OH,100/300,1000,2446,College,exec-managerial,Multi-vehicle Collision,Front Collision,Major Damage,Fire,Ford,2017,154650,7,63.22567457072772,1
+68,37,IL,250/500,2000,556,College,sales,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Honda,2014,21505,10,38.67805755395683,0
+317,37,IN,100/300,1000,2793,High School,sales,Single Vehicle Collision,Rear Collision,Minor Damage,None,Honda,2002,112889,22,40.418546365914786,1
+26,38,IN,250/500,1000,2811,College,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,Fire,Ford,2009,140344,15,49.926716471006756,0
+407,79,IN,500/1000,2000,1306,Masters,tech-support,Vehicle Theft,Side Collision,Major Damage,Fire,Honda,2007,34387,17,26.330015313935682,1
+290,34,IL,100/300,500,1950,College,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,Ambulance,Ford,1995,158048,29,81.05025641025641,1
+370,52,OH,500/1000,1000,1504,High School,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,None,Ford,2015,180863,9,120.25465425531915,1
+394,41,IL,100/300,500,2151,High School,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,None,Honda,2022,49478,2,23.00232450023245,0
+514,41,OH,100/300,500,1849,High School,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Police,Ford,2009,151466,15,81.91779340183884,1
+62,61,IL,500/1000,2000,752,College,sales,Single Vehicle Collision,Side Collision,Minor Damage,None,Toyota,2000,136372,24,181.34574468085106,1
+567,37,OH,100/300,500,2223,Masters,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Honda,2017,108761,7,48.92532613585245,1
+360,77,IN,250/500,1000,1080,College,sales,Single Vehicle Collision,Rear Collision,Total Loss,None,Ford,2003,190668,21,176.54444444444445,1
+236,51,IN,100/300,500,2160,College,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,None,Toyota,1996,195760,28,90.62962962962963,0
+206,57,OH,500/1000,500,1565,High School,exec-managerial,Vehicle Theft,Front Collision,Minor Damage,Police,Ford,2008,2924,16,1.868370607028754,0
+273,54,IL,100/300,1000,1410,Masters,tech-support,Vehicle Theft,Front Collision,Minor Damage,Ambulance,Toyota,2016,181889,8,128.99929078014185,1
+318,73,IL,100/300,500,2368,High School,tech-support,Vehicle Theft,Side Collision,Major Damage,None,Toyota,2000,111234,24,46.973817567567565,1
+176,20,IN,100/300,1000,2898,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,Police,Toyota,2008,91481,16,31.566942719116632,0
+460,71,OH,250/500,500,2452,High School,exec-managerial,Vehicle Theft,Side Collision,Major Damage,None,Ford,2013,65325,11,26.641517128874387,1
+490,52,OH,100/300,1000,1502,Masters,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,Police,Toyota,2004,114922,20,76.51264980026632,0
+176,20,IN,500/1000,1000,1287,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,Ford,2009,75965,15,59.02486402486402,1
+159,77,OH,250/500,500,2351,Masters,exec-managerial,Vehicle Theft,Front Collision,Total Loss,Fire,Ford,2020,37051,4,15.759676733304977,0
+360,55,IL,100/300,2000,1454,Masters,sales,Vehicle Theft,Front Collision,Total Loss,Ambulance,Toyota,1999,90407,25,62.17812929848693,1
+584,22,IL,500/1000,2000,1345,High School,tech-support,Single Vehicle Collision,Side Collision,Major Damage,None,Toyota,1998,179725,26,133.62453531598513,1
+48,27,OH,100/300,1000,1527,College,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,Ford,2012,193416,12,126.66404715127702,0
+441,22,OH,250/500,1000,566,High School,tech-support,Vehicle Theft,Front Collision,Total Loss,Ambulance,Toyota,2020,3369,4,5.9522968197879855,0
+580,54,IN,500/1000,500,1309,High School,exec-managerial,Vehicle Theft,Front Collision,Total Loss,Police,Ford,2014,23161,10,17.693659281894575,0
+5,35,IL,500/1000,1000,1092,College,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,Fire,Ford,2009,158998,15,145.60256410256412,1
+285,74,OH,100/300,500,1967,High School,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,Toyota,2021,190016,3,96.60193187595323,1
+171,44,OH,100/300,500,745,Masters,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Police,Honda,2022,174620,2,234.38926174496643,1
+25,55,OH,500/1000,1000,1589,College,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,Ambulance,Toyota,2006,195841,18,123.24795468848332,1
+210,62,IL,100/300,2000,1678,High School,exec-managerial,Vehicle Theft,Front Collision,Total Loss,Fire,Ford,2014,90606,10,53.99642431466031,1
+213,70,IN,100/300,2000,2122,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,Fire,Ford,2016,37355,8,17.60367577756833,1
+426,20,IL,500/1000,2000,2628,Masters,sales,Single Vehicle Collision,Rear Collision,Major Damage,Fire,Toyota,2015,47947,9,18.244672754946727,0
+345,71,OH,100/300,500,2170,High School,tech-support,Single Vehicle Collision,Side Collision,Major Damage,None,Honda,2000,82541,24,38.03732718894009,1
+482,49,OH,100/300,1000,524,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,Police,Honda,2022,118734,2,226.5916030534351,1
+566,34,OH,250/500,500,803,College,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,2010,77054,14,95.95765877957659,1
+556,58,IN,250/500,500,1703,High School,sales,Multi-vehicle Collision,Side Collision,Minor Damage,None,Honda,2019,38594,5,22.662360540223137,1
+474,38,OH,250/500,500,1020,College,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,Police,Ford,2010,37373,14,36.64019607843137,1
+503,77,IN,500/1000,500,2810,Masters,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,Fire,Ford,1997,106623,27,37.944128113879,1
+163,71,IL,500/1000,500,2273,Masters,tech-support,Vehicle Theft,Side Collision,Minor Damage,Police,Honda,2022,157666,2,69.36471623405191,0
+386,60,IL,250/500,500,2286,College,sales,Multi-vehicle Collision,Front Collision,Minor Damage,Fire,Honda,2009,92654,15,40.53105861767279,1
+77,65,IL,250/500,2000,2244,High School,tech-support,Vehicle Theft,Rear Collision,Minor Damage,None,Honda,2011,174557,13,77.78832442067736,1
+428,64,IL,500/1000,1000,2253,High School,sales,Single Vehicle Collision,Front Collision,Minor Damage,Fire,Ford,2020,12517,4,5.555703506435863,0
+75,65,OH,500/1000,2000,828,College,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Police,Ford,1998,10695,26,12.916666666666666,0
+254,35,IL,100/300,2000,1609,College,sales,Vehicle Theft,Side Collision,Minor Damage,Ambulance,Ford,2012,188313,12,117.03729024238658,1
+93,50,IN,250/500,1000,632,College,tech-support,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Toyota,2021,18131,3,28.688291139240505,1
+356,57,OH,500/1000,2000,2661,High School,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,Ambulance,Honda,2016,18769,8,7.053363397219091,0
+10,52,IN,250/500,500,1308,Masters,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,Fire,Ford,2016,134909,8,103.1414373088685,1
+578,57,IN,250/500,500,1369,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Honda,2004,101727,20,74.30752373995617,0
+196,56,OH,250/500,1000,1346,College,exec-managerial,Multi-vehicle Collision,Side Collision,Major Damage,None,Toyota,2007,195292,17,145.09063893016344,1
+193,51,OH,100/300,1000,1585,College,sales,Single Vehicle Collision,Side Collision,Minor Damage,Fire,Ford,2013,39575,11,24.968454258675077,0
+416,52,IL,250/500,1000,1860,Masters,tech-support,Vehicle Theft,Front Collision,Major Damage,Ambulance,Honda,2005,94740,19,50.935483870967744,1
+259,55,OH,250/500,2000,2459,College,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,None,Ford,2000,18601,24,7.564457096380642,0
+369,46,IL,100/300,500,2623,College,sales,Vehicle Theft,Front Collision,Major Damage,Ambulance,Honda,2015,61155,9,23.314906595501334,0
+518,38,OH,250/500,2000,2422,High School,sales,Single Vehicle Collision,Rear Collision,Major Damage,Police,Ford,1995,164282,29,67.82906688687035,1
+333,76,IN,250/500,500,1899,College,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,None,Honda,2017,129396,7,68.13902053712481,1
+276,77,OH,500/1000,1000,1473,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Minor Damage,Ambulance,Honda,1997,182644,27,123.99456890699253,1
+410,20,IL,500/1000,2000,1371,Masters,tech-support,Vehicle Theft,Front Collision,Total Loss,Ambulance,Toyota,2008,8253,16,6.019693654266958,0
+238,27,OH,250/500,1000,2121,High School,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Toyota,2000,38170,24,17.996228194247998,1
+395,61,IN,100/300,500,829,College,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,None,Toyota,2020,34541,4,41.66586248492159,1
+75,20,IL,250/500,500,2822,College,exec-managerial,Vehicle Theft,Front Collision,Minor Damage,Ambulance,Ford,2002,80397,22,28.489369241672573,0
+217,70,IL,250/500,1000,833,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,None,Toyota,2012,157547,12,189.13205282112844,1
+451,21,IN,500/1000,1000,1329,High School,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,Police,Ford,2017,9584,7,7.211437170805117,0
+331,28,IL,250/500,500,1415,Masters,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Toyota,2015,167519,9,118.38798586572439,1
+296,31,IL,100/300,2000,1732,High School,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,None,Honda,2014,147851,10,85.36431870669746,1
+273,74,OH,100/300,1000,2065,College,tech-support,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Toyota,2008,190059,16,92.03825665859564,1
+202,52,IL,500/1000,1000,2021,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,None,Honda,1999,79038,25,39.10836219693221,1
+90,21,IN,500/1000,500,745,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Fire,Toyota,2010,28584,14,38.36778523489933,1
+103,45,OH,100/300,1000,1801,High School,sales,Single Vehicle Collision,Front Collision,Total Loss,Police,Honda,2010,166938,14,92.69183786785119,1
+501,29,OH,100/300,500,2396,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Police,Honda,2020,45788,4,19.110183639398997,0
+591,55,OH,250/500,1000,955,Masters,tech-support,Vehicle Theft,Rear Collision,Minor Damage,Police,Toyota,1995,20455,29,21.418848167539267,0
+382,56,OH,100/300,1000,2043,Masters,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Fire,Toyota,2013,30605,11,14.980420949583944,0
+461,40,OH,250/500,2000,2324,College,sales,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,1999,148239,25,63.786144578313255,1
+31,69,IL,500/1000,2000,803,High School,sales,Multi-vehicle Collision,Side Collision,Major Damage,None,Toyota,2020,149188,4,185.78829389788294,1
+77,78,OH,500/1000,1000,2111,High School,sales,Single Vehicle Collision,Rear Collision,Total Loss,Fire,Toyota,2016,121179,8,57.403600189483655,1
+56,40,OH,250/500,2000,1493,College,sales,Single Vehicle Collision,Side Collision,Total Loss,Fire,Toyota,2015,131160,9,87.84996651038178,1
+186,44,IL,250/500,2000,1524,High School,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,None,Honda,2017,124323,7,81.5767716535433,1
+30,42,OH,500/1000,500,1089,High School,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,None,Honda,1996,99075,28,90.97796143250689,1
+94,43,IL,500/1000,1000,1351,College,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,Ambulance,Toyota,2003,84251,21,62.3619541080681,1
+66,41,IN,100/300,500,2522,College,tech-support,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,Honda,2005,93545,19,37.09159397303727,1
+199,37,IN,500/1000,1000,1394,Masters,exec-managerial,Vehicle Theft,Rear Collision,Total Loss,Police,Ford,2016,19095,8,13.697991391678622,0
+559,63,IL,100/300,2000,2897,High School,sales,Vehicle Theft,Front Collision,Major Damage,None,Toyota,2011,56309,13,19.437003797031412,0
+485,78,IL,500/1000,1000,1537,Masters,exec-managerial,Vehicle Theft,Side Collision,Major Damage,Police,Honda,2011,41491,13,26.994795055302536,0
+22,21,OH,250/500,2000,1790,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,Police,Honda,2004,178561,20,99.75474860335196,1
+444,25,IL,250/500,2000,1411,High School,tech-support,Vehicle Theft,Side Collision,Total Loss,Fire,Toyota,2023,36568,1,25.916371367824237,1
+220,36,IL,100/300,500,2247,College,tech-support,Multi-vehicle Collision,Front Collision,Minor Damage,None,Toyota,1997,138901,27,61.81619937694704,1
+302,25,OH,500/1000,2000,806,High School,tech-support,Vehicle Theft,Front Collision,Total Loss,Police,Honda,2020,194149,4,240.87965260545906,1
+389,42,IN,500/1000,500,571,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Major Damage,None,Toyota,2014,159273,10,278.9369527145359,1
+429,54,IN,250/500,1000,2561,College,exec-managerial,Vehicle Theft,Side Collision,Major Damage,Ambulance,Ford,1997,103318,27,40.342834830144476,1
+409,77,IL,500/1000,2000,641,College,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Ford,2011,186551,13,291.0312012480499,1
+124,61,OH,500/1000,1000,2727,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,Police,Toyota,1998,83641,26,30.67143381004767,1
+407,74,IN,250/500,1000,994,Masters,tech-support,Vehicle Theft,Side Collision,Major Damage,Police,Honda,2011,96148,13,96.72837022132796,0
+78,19,IL,100/300,1000,1267,College,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Police,Ford,2016,110367,8,87.10891870560378,0
+382,73,IN,250/500,1000,2355,Masters,sales,Single Vehicle Collision,Side Collision,Minor Damage,None,Toyota,2018,189499,6,80.46666666666667,1
+519,43,OH,250/500,2000,2232,High School,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,None,Toyota,2014,89771,10,40.21998207885304,1
+53,55,OH,250/500,2000,1924,High School,tech-support,Vehicle Theft,Front Collision,Total Loss,Fire,Ford,2010,41725,14,21.686590436590436,1
+52,32,OH,250/500,1000,2572,College,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,Fire,Honda,2009,80794,15,31.41290824261275,0
+378,28,IN,250/500,2000,2531,Masters,sales,Single Vehicle Collision,Side Collision,Major Damage,None,Ford,1998,8970,26,3.544053733702094,0
+95,42,OH,100/300,1000,2440,High School,sales,Single Vehicle Collision,Side Collision,Minor Damage,Police,Toyota,2021,196346,3,80.46967213114755,0
+99,57,IL,250/500,500,2686,Masters,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Police,Honda,2009,15407,15,5.736038719285182,0
+62,40,OH,250/500,500,2375,High School,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Ford,1999,21471,25,9.04042105263158,0
+2,58,OH,500/1000,1000,2727,High School,tech-support,Vehicle Theft,Side Collision,Total Loss,Ambulance,Honda,2022,191891,2,70.36707004033737,1
+65,42,IL,500/1000,1000,2514,Masters,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,Police,Honda,1999,147444,25,58.64916467780429,0
+597,50,OH,250/500,1000,2933,Masters,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,Ford,2011,33099,13,11.285032390044323,0
+45,18,IL,250/500,2000,1202,High School,tech-support,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,Ford,2004,177978,20,148.06821963394341,1
+28,43,IL,100/300,1000,1928,High School,sales,Multi-vehicle Collision,Rear Collision,Total Loss,Ambulance,Toyota,2020,50107,4,25.98910788381743,0
+328,22,IN,500/1000,1000,1217,College,exec-managerial,Vehicle Theft,Side Collision,Major Damage,Ambulance,Toyota,2006,68573,18,56.34593262119967,0
+36,34,IN,250/500,2000,2818,Masters,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,Fire,Honda,2023,98869,1,35.084811923349896,1
+351,30,IN,250/500,500,2020,High School,tech-support,Single Vehicle Collision,Side Collision,Major Damage,None,Toyota,1995,59390,29,29.400990099009903,1
+462,31,OH,250/500,1000,858,College,sales,Single Vehicle Collision,Front Collision,Total Loss,None,Toyota,2012,118213,12,137.7773892773893,1
+286,19,IL,500/1000,2000,1292,College,sales,Multi-vehicle Collision,Side Collision,Major Damage,Fire,Honda,2020,138821,4,107.44659442724458,1
+164,66,IN,250/500,1000,571,College,exec-managerial,Multi-vehicle Collision,Front Collision,Total Loss,None,Ford,2008,20623,16,36.117338003502624,1
+102,71,IN,250/500,1000,2487,Masters,sales,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,Toyota,1995,70001,29,28.146763168476074,1
+294,33,OH,500/1000,500,505,High School,exec-managerial,Vehicle Theft,Side Collision,Total Loss,Ambulance,Ford,2008,34948,16,69.2039603960396,0
+522,65,IN,100/300,2000,2056,Masters,exec-managerial,Multi-vehicle Collision,Front Collision,Minor Damage,Police,Ford,1999,40142,25,19.52431906614786,0
+584,61,IN,250/500,2000,668,High School,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Ambulance,Toyota,1996,83762,28,125.39221556886227,1
+598,60,IN,500/1000,500,674,Masters,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,Fire,Honda,2017,158786,7,235.58753709198814,1
+228,27,IN,100/300,500,1561,High School,exec-managerial,Vehicle Theft,Side Collision,Major Damage,None,Toyota,1998,174795,26,111.97629724535554,0
+162,39,IN,500/1000,2000,2061,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,1996,106783,28,51.81125667151868,1
+473,73,IN,100/300,2000,1669,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,Fire,Honda,2004,174549,20,104.58298382264829,1
+191,30,OH,250/500,500,2715,College,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,None,Ford,2013,28597,11,10.532965009208104,0
+185,36,IN,500/1000,1000,1869,High School,sales,Vehicle Theft,Side Collision,Minor Damage,Ambulance,Toyota,2013,63982,11,34.23327982878545,1
+186,25,IN,250/500,500,1797,College,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Fire,Ford,2009,96737,15,53.832498608792434,0
+488,40,IL,250/500,500,1335,Masters,sales,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Toyota,2018,147900,6,110.78651685393258,1
+63,73,IL,500/1000,500,2061,High School,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Ambulance,Toyota,1995,137772,29,66.8471615720524,1
+28,57,IL,250/500,2000,1726,High School,sales,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Ford,2015,16389,9,9.495365005793742,0
+294,57,IL,250/500,500,1967,High School,tech-support,Single Vehicle Collision,Side Collision,Major Damage,Police,Ford,1999,6285,25,3.195221148957804,0
+468,26,OH,250/500,2000,1778,Masters,tech-support,Vehicle Theft,Front Collision,Major Damage,Ambulance,Toyota,2017,111078,7,62.473565804274465,1
+599,44,IL,500/1000,2000,2574,College,sales,Single Vehicle Collision,Side Collision,Major Damage,None,Ford,2020,122246,4,47.49261849261849,1
+393,32,OH,250/500,1000,1665,Masters,sales,Multi-vehicle Collision,Front Collision,Major Damage,Ambulance,Honda,2006,97453,18,58.53033033033033,1
+71,25,OH,250/500,500,1568,High School,sales,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,Ford,2001,4549,23,2.9011479591836733,0
+419,75,OH,100/300,1000,2990,College,sales,Multi-vehicle Collision,Rear Collision,Minor Damage,Fire,Honda,2003,132776,21,44.406688963210705,1
+43,78,IL,250/500,1000,1058,College,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Ambulance,Ford,2003,35404,21,33.46313799621928,0
+185,41,IN,100/300,2000,1719,College,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Toyota,2016,158557,8,92.23792902850495,0
+174,64,IL,100/300,500,2419,High School,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Police,Ford,2005,135464,19,56.0,1
+441,33,IN,250/500,1000,1289,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Police,Ford,1996,193122,28,149.82311869666407,1
+357,64,IL,250/500,1000,1904,College,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Toyota,2008,90711,16,47.64233193277311,1
+202,73,IN,100/300,1000,522,Masters,tech-support,Vehicle Theft,Front Collision,Minor Damage,None,Ford,2005,127951,19,245.1168582375479,1
+84,61,IL,500/1000,1000,1804,High School,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Police,Toyota,2010,49737,14,27.57039911308204,1
+256,77,IN,250/500,1000,2229,Masters,sales,Vehicle Theft,Front Collision,Minor Damage,None,Ford,2022,190656,2,85.53432032301481,1
+387,18,OH,500/1000,1000,1592,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,Police,Honda,2009,154574,15,97.09422110552764,0
+178,42,IN,250/500,1000,2263,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Honda,2023,98555,1,43.5505965532479,0
+290,78,IL,100/300,2000,788,Masters,tech-support,Single Vehicle Collision,Rear Collision,Total Loss,Ambulance,Honda,2019,4512,5,5.725888324873097,0
+564,68,OH,100/300,500,2225,Masters,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Ford,2010,113808,14,51.149662921348316,1
+42,27,IN,100/300,500,1412,College,sales,Single Vehicle Collision,Front Collision,Major Damage,Ambulance,Toyota,2015,61263,9,43.38739376770538,0
+192,62,OH,500/1000,2000,1604,High School,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,Fire,Ford,2019,27863,5,17.370947630922693,0
+204,52,IN,250/500,2000,642,High School,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,Toyota,1997,176112,27,274.31775700934577,1
+506,63,OH,500/1000,500,1981,College,tech-support,Vehicle Theft,Front Collision,Minor Damage,None,Toyota,2002,95410,22,48.16254416961131,1
+122,79,IN,500/1000,1000,2296,High School,sales,Multi-vehicle Collision,Front Collision,Major Damage,None,Ford,2004,27465,20,11.962108013937282,1
+336,55,IL,250/500,500,2430,College,tech-support,Vehicle Theft,Side Collision,Major Damage,Police,Honda,2017,44722,7,18.40411522633745,1
+117,25,IN,250/500,1000,806,College,tech-support,Multi-vehicle Collision,Rear Collision,Minor Damage,None,Toyota,2021,195860,3,243.00248138957815,1
+127,38,IL,500/1000,500,1441,College,tech-support,Vehicle Theft,Side Collision,Major Damage,Fire,Toyota,2009,116123,15,80.58501040943788,1
+241,68,OH,250/500,1000,1415,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Ambulance,Honda,2012,80036,12,56.56254416961131,0
+261,46,IL,100/300,500,1363,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Minor Damage,None,Toyota,2018,136184,6,99.91489361702128,0
+210,68,IN,100/300,1000,1829,College,sales,Vehicle Theft,Front Collision,Total Loss,None,Honda,2004,101932,20,55.731000546746856,1
+44,52,IN,250/500,500,1104,Masters,sales,Vehicle Theft,Side Collision,Total Loss,None,Toyota,1996,175220,28,158.71376811594203,1
+158,51,IN,500/1000,1000,2877,College,exec-managerial,Vehicle Theft,Front Collision,Total Loss,None,Ford,2003,53182,21,18.48522766770942,1
+5,58,IL,100/300,500,2986,Masters,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Honda,2013,27539,11,9.222705961152043,1
+50,61,IN,500/1000,1000,530,High School,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Fire,Toyota,2000,191690,24,361.6792452830189,1
+55,20,IL,100/300,2000,1781,High School,sales,Multi-vehicle Collision,Front Collision,Major Damage,Police,Honda,2003,29106,21,16.34250421111735,0
+11,67,IL,500/1000,1000,1410,Masters,exec-managerial,Vehicle Theft,Rear Collision,Minor Damage,None,Toyota,2005,131514,19,93.27234042553191,1
+554,63,IN,250/500,1000,1766,High School,sales,Vehicle Theft,Side Collision,Major Damage,Fire,Honda,2012,23525,12,13.321064552661381,0
+470,72,OH,250/500,2000,966,High School,sales,Multi-vehicle Collision,Rear Collision,Total Loss,None,Honda,2020,6539,4,6.7691511387163565,0
+573,75,IN,500/1000,2000,2190,College,tech-support,Single Vehicle Collision,Front Collision,Major Damage,Police,Ford,2021,159984,3,73.05205479452054,0
+371,32,OH,500/1000,2000,710,High School,tech-support,Multi-vehicle Collision,Side Collision,Total Loss,Ambulance,Ford,2005,90609,19,127.61830985915493,0
+387,35,OH,500/1000,1000,2377,College,tech-support,Vehicle Theft,Side Collision,Major Damage,Police,Ford,2014,6631,10,2.7896508203618007,0
+50,40,IL,100/300,2000,2600,College,tech-support,Vehicle Theft,Front Collision,Minor Damage,Fire,Ford,2013,139923,11,53.816538461538464,1
+12,39,OH,250/500,1000,2321,Masters,sales,Vehicle Theft,Rear Collision,Total Loss,Police,Toyota,1996,91918,28,39.60275743214132,1
+321,71,IL,100/300,1000,2000,High School,tech-support,Multi-vehicle Collision,Side Collision,Major Damage,Fire,Honda,1998,49022,26,24.511,0
+145,48,IL,100/300,1000,624,College,exec-managerial,Single Vehicle Collision,Side Collision,Major Damage,Fire,Toyota,2015,115836,9,185.6346153846154,1
+277,21,IL,250/500,1000,1237,College,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Honda,2007,51138,17,41.34033953112369,1
+207,63,OH,100/300,2000,872,Masters,sales,Vehicle Theft,Side Collision,Minor Damage,Police,Ford,2003,139955,21,160.49885321100916,1
+451,32,IL,250/500,500,2214,Masters,sales,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Honda,1997,48310,27,21.82023486901536,0
+412,27,IN,100/300,2000,1405,High School,exec-managerial,Single Vehicle Collision,Front Collision,Minor Damage,None,Toyota,2010,83911,14,59.723131672597866,1
+149,64,IL,100/300,2000,520,Masters,sales,Single Vehicle Collision,Rear Collision,Minor Damage,Police,Honda,2008,107885,16,207.47115384615384,0
+331,20,IN,250/500,1000,505,Masters,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,Honda,2017,193249,7,382.6712871287129,1
+30,31,OH,500/1000,500,1045,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Total Loss,Police,Toyota,2010,35579,14,34.04688995215311,1
+207,22,IL,500/1000,500,1253,High School,tech-support,Vehicle Theft,Side Collision,Major Damage,None,Ford,2004,135757,20,108.34557063048683,1
+51,65,IL,250/500,2000,2100,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,Toyota,2005,182877,19,87.08428571428571,1
+334,36,IL,100/300,500,2793,College,exec-managerial,Vehicle Theft,Rear Collision,Major Damage,Fire,Ford,2003,129633,21,46.41353383458647,1
+304,21,OH,100/300,1000,2594,High School,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Fire,Toyota,1999,54533,25,21.022744795682343,0
+581,48,IN,500/1000,500,1872,Masters,sales,Single Vehicle Collision,Rear Collision,Major Damage,Ambulance,Toyota,2017,25940,7,13.856837606837606,0
+149,67,IN,500/1000,2000,1712,College,sales,Multi-vehicle Collision,Side Collision,Major Damage,None,Ford,2020,99706,4,58.23948598130841,1
+177,18,IL,100/300,2000,2848,Masters,exec-managerial,Vehicle Theft,Front Collision,Total Loss,None,Ford,2016,133689,8,46.94136235955056,1
+574,22,OH,500/1000,2000,752,College,exec-managerial,Single Vehicle Collision,Front Collision,Total Loss,Fire,Honda,2000,166541,24,221.46409574468086,1
+245,34,IL,500/1000,2000,2705,High School,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,None,Toyota,2013,118255,11,43.71719038817005,1
+36,72,IL,100/300,1000,2136,College,sales,Vehicle Theft,Side Collision,Minor Damage,Fire,Ford,2010,185566,14,86.87546816479401,1
+291,32,IL,500/1000,1000,2789,College,sales,Vehicle Theft,Rear Collision,Major Damage,Police,Honda,2020,81294,4,29.148081749731087,1
+564,39,IL,250/500,500,2760,College,tech-support,Vehicle Theft,Rear Collision,Total Loss,Police,Ford,2003,3928,21,1.4231884057971014,0
+514,21,IN,250/500,1000,1766,College,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Toyota,2017,27015,7,15.297281993204983,1
+106,44,OH,250/500,2000,2660,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,None,Honda,2011,138457,13,52.05150375939849,0
+361,58,IN,250/500,2000,1450,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Major Damage,Fire,Honda,1997,118632,27,81.8151724137931,0
+317,50,OH,250/500,1000,2453,Masters,sales,Vehicle Theft,Side Collision,Total Loss,None,Honda,2004,111951,20,45.638401956787604,1
+75,37,IL,100/300,2000,1553,High School,tech-support,Single Vehicle Collision,Rear Collision,Minor Damage,Police,Honda,2011,187115,13,120.48615582743078,1
+456,77,IL,500/1000,2000,1426,Masters,exec-managerial,Multi-vehicle Collision,Rear Collision,Total Loss,Fire,Honda,1998,142294,26,99.78541374474054,1
+38,50,IN,100/300,500,740,College,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Police,Honda,2022,191091,2,258.2310810810811,1
+285,29,IN,250/500,1000,2820,College,sales,Multi-vehicle Collision,Side Collision,Major Damage,Police,Toyota,2018,131364,6,46.58297872340425,0
+287,19,IL,100/300,1000,594,High School,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,None,Ford,2009,194366,15,327.2154882154882,1
+121,56,IN,100/300,1000,2446,Masters,tech-support,Multi-vehicle Collision,Front Collision,Total Loss,Fire,Toyota,2001,2320,23,0.9484873262469338,0
+230,41,IN,100/300,500,900,High School,exec-managerial,Vehicle Theft,Front Collision,Total Loss,Ambulance,Honda,2006,151868,18,168.7422222222222,1
+571,69,IN,250/500,500,1130,High School,tech-support,Vehicle Theft,Front Collision,Minor Damage,Fire,Toyota,2017,10840,7,9.5929203539823,0
+319,51,IN,100/300,2000,1557,Masters,exec-managerial,Single Vehicle Collision,Rear Collision,Total Loss,Police,Ford,2019,73439,5,47.1669877970456,0
+32,40,IL,100/300,500,1755,College,sales,Multi-vehicle Collision,Front Collision,Total Loss,Police,Ford,2022,184999,2,105.4125356125356,1
+250,48,OH,100/300,2000,2880,Masters,sales,Multi-vehicle Collision,Side Collision,Major Damage,None,Ford,2022,108772,2,37.768055555555556,1
+372,73,OH,100/300,2000,655,College,tech-support,Single Vehicle Collision,Side Collision,Total Loss,Fire,Toyota,2005,125983,19,192.3404580152672,1
+308,44,IN,250/500,500,1296,College,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,Fire,Toyota,2010,116370,14,89.79166666666667,0
+307,50,IN,250/500,1000,2056,High School,tech-support,Vehicle Theft,Side Collision,Total Loss,Fire,Honda,2020,28821,4,14.017996108949417,0
+279,60,IL,250/500,1000,1424,College,exec-managerial,Vehicle Theft,Side Collision,Minor Damage,Ambulance,Toyota,2011,135137,13,94.89957865168539,1
+496,48,IN,250/500,500,1221,College,sales,Vehicle Theft,Side Collision,Minor Damage,Police,Honda,2014,69165,10,56.646191646191646,1
+490,21,IN,500/1000,2000,1804,Masters,sales,Multi-vehicle Collision,Side Collision,Minor Damage,None,Honda,2019,144492,5,80.09534368070953,1
+369,56,IL,500/1000,500,2791,College,exec-managerial,Single Vehicle Collision,Side Collision,Minor Damage,Fire,Ford,2015,152623,9,54.6839842350412,1
+105,36,OH,250/500,2000,798,High School,sales,Vehicle Theft,Front Collision,Total Loss,Ambulance,Ford,2015,141973,9,177.9110275689223,1
+248,36,IL,500/1000,1000,2326,College,tech-support,Single Vehicle Collision,Rear Collision,Major Damage,None,Honda,2008,178058,16,76.55116079105761,1
+351,22,IL,250/500,2000,1153,Masters,tech-support,Vehicle Theft,Front Collision,Minor Damage,Police,Honda,2002,44888,22,38.93148308759757,0
+587,35,IN,100/300,1000,825,Masters,tech-support,Vehicle Theft,Front Collision,Total Loss,Ambulance,Honda,2021,185588,3,224.95515151515153,1
+243,39,IL,500/1000,1000,1672,Masters,sales,Multi-vehicle Collision,Front Collision,Major Damage,Police,Ford,2016,67775,8,40.53528708133971,1
+415,40,OH,500/1000,500,2967,Masters,sales,Vehicle Theft,Rear Collision,Minor Damage,Fire,Ford,2012,136455,12,45.99089989888777,1
+528,35,IN,500/1000,2000,1524,College,tech-support,Single Vehicle Collision,Front Collision,Major Damage,None,Toyota,2020,100152,4,65.71653543307086,0
+184,60,IN,250/500,2000,1626,Masters,sales,Single Vehicle Collision,Rear Collision,Total Loss,Police,Honda,2013,150741,11,92.70664206642067,0
+501,67,OH,500/1000,500,1789,Masters,tech-support,Single Vehicle Collision,Side Collision,Total Loss,Police,Ford,2020,154512,4,86.36780324203465,1
+563,53,OH,500/1000,2000,2305,High School,tech-support,Single Vehicle Collision,Side Collision,Minor Damage,Police,Toyota,2010,121497,14,52.71019522776572,1
+187,34,IL,250/500,500,1461,College,sales,Vehicle Theft,Front Collision,Major Damage,None,Toyota,2023,166882,1,114.22450376454483,1
+25,26,IL,250/500,1000,1283,High School,sales,Single Vehicle Collision,Side Collision,Total Loss,Police,Ford,2013,25022,11,19.50272798129384,1
+113,24,IN,250/500,2000,2122,Masters,sales,Multi-vehicle Collision,Front Collision,Major Damage,None,Ford,1995,59465,29,28.023091423185672,1
+156,31,IN,500/1000,500,1216,High School,tech-support,Vehicle Theft,Rear Collision,Major Damage,Police,Toyota,1999,19371,25,15.930098684210526,0
+476,20,IN,250/500,500,1458,High School,tech-support,Vehicle Theft,Side Collision,Total Loss,Fire,Toyota,2000,115186,24,79.00274348422496,1
+181,38,OH,250/500,500,759,High School,sales,Single Vehicle Collision,Front Collision,Minor Damage,Fire,Ford,2021,88995,3,117.25296442687747,1
+257,57,OH,100/300,1000,2562,College,exec-managerial,Vehicle Theft,Front Collision,Minor Damage,None,Toyota,1995,136008,29,53.086651053864166,1
+310,64,IN,250/500,500,2487,High School,exec-managerial,Multi-vehicle Collision,Side Collision,Minor Damage,Ambulance,Ford,2002,66382,22,26.691596300763972,1
+274,77,IL,500/1000,500,2910,High School,exec-managerial,Multi-vehicle Collision,Rear Collision,Major Damage,None,Ford,2002,27862,22,9.574570446735395,1
+176,70,IN,250/500,2000,2865,High School,tech-support,Single Vehicle Collision,Front Collision,Minor Damage,None,Toyota,2014,78755,10,27.48865619546248,1
+329,62,OH,100/300,1000,570,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Fire,Honda,2020,53092,4,93.1438596491228,1
+350,57,IL,250/500,500,759,College,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,Police,Ford,2014,140333,10,184.8919631093544,0
+255,61,IL,250/500,500,2971,High School,tech-support,Vehicle Theft,Front Collision,Major Damage,Ambulance,Ford,2017,187964,7,63.266240323123526,1
+455,63,IL,250/500,2000,1226,College,sales,Multi-vehicle Collision,Rear Collision,Major Damage,Fire,Honda,2004,78661,20,64.16068515497552,1
+46,35,OH,100/300,1000,2137,Masters,exec-managerial,Single Vehicle Collision,Side Collision,Total Loss,None,Ford,1997,184429,27,86.30276087973795,0
+479,65,IL,100/300,1000,2215,Masters,sales,Single Vehicle Collision,Rear Collision,Total Loss,Fire,Honda,2018,196672,6,88.79097065462754,1
+544,30,OH,500/1000,2000,1808,College,tech-support,Multi-vehicle Collision,Rear Collision,Total Loss,Police,Toyota,2020,152527,4,84.36227876106194,1
